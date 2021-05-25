@@ -8,3 +8,12 @@ El objetivo del presente trabajo, es estudiar el modelo BERT (Bidirectional Enco
 ### Descripción del repo y requerimientos:
 
 - Utilizamos Google Colab (GRU) para el estudio del modelo del desempeño del modelo: `notebooks/`.
+
+
+## Equipo 2
+
+| Nombre | User Github | 
+|:---:|:---:|:---|
+| Hécttor Efrén Guadarrama | HecttorJ | 
+| Eduardo Moreno | Eduardo-Moreno| 
+| Miguel López Cruz | Lobolc| 
