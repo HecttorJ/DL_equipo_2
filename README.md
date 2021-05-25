@@ -1,4 +1,4 @@
-![](https://github.com/optimizacion-2-2021-1-gh-classroom/practica-1-segunda-parte-caroacostatovany/blob/main/src/docs/images/mex_simplex_logo.png)
+ª[](https://github.com/Eduardo-Moreno/DL_equipo_2/blob/main/images/BERT.png)
 # Similitud Semántica::BERT
 ***
 
