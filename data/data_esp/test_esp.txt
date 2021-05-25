@@ -1,0 +1,250 @@
+similitud; oración1; oración2
+vinculación; Un conductor de un tren se asoma por una ventana y mira hacia la derecha, mientras que otro hombre dentro del vagón mira hacia unas andenes.; Hay dos personas en un tren mirando cosas diferentes.
+vinculación; Un conductor de un tren se asoma por una ventana y mira hacia la derecha, mientras que otro hombre dentro del vagón mira hacia unos indicadores.; Hay gente en un tren.
+vinculación; Un conductor de un tren se asoma por una ventana y mira hacia la derecha, mientras que otro hombre dentro del vagón mira hacia unos aforos.; La gente corre un tren.
+contradicción; un hombre con sombrero de conductor saca la cabeza por la ventana y se apoya en el alféizar de la ventana del tren.; Un perro asoma la cabeza por la ventana de un coche.
+neutral; un hombre con sombrero de conductor saca la cabeza por la ventana y se apoya en el alféizar de la ventana del tren.; Un hombre saca la cabeza por la ventana.
+vinculación; un hombre con sombrero de conductor asoma la cabeza por la ventana y se apoya en el alféizar de la ventana del tren.; Un hombre con sombrero está en un tren.
+vinculación; Un conductor de tren mirando por la ventana de un tren negro mientras el trabajador mira los indicadores.; El conductor está mirando hacia afuera.
+neutral; Un conductor de tren mirando por la ventana de un tren negro mientras el trabajador mira los indicadores.; El conductor está mirando por la ventana al tren.
+contradicción; Un conductor de tren mirando por la ventana de un tren negro mientras el trabajador mira los indicadores.; El conductor está mirando un manual.
+contradicción; Hombre colgado por la ventana de un tren con chaqueta y sombrero negros.; El hombre es el copiloto del avión.
+vinculación; Hombre colgado por la ventana de un tren con chaqueta negra y sombrero.; El hombre está en un tren.
+neutral; Hombre colgado por la ventana de un tren con chaqueta y sombrero negros.; El hombre es el conductor del tren.
+vinculación; Un niño golpea una pelota de béisbol mientras su familia mira; El niño enorgullece a su familia.
+contradicción; Un niño golpea una pelota de béisbol mientras su familia mira; Un niño marca un gol jugando al fútbol con su hermana.
+neutral; Un niño golpea una pelota de béisbol mientras su familia mira; Un niño golpea un jonrón mientras su mamá y su papá vitorean.
+contradicción; Niño con camisa negra y casco de bateo rojo balanceando el bate a la pelota en el campo de pelota.; la mujer califica un papel
+neutral; niño con camisa negra y casco de bateo rojo balanceando el bate a la pelota en el campo de pelota.; el niño está probando para el equipo de béisbol
+vinculación; Niño con camisa negra y casco de bateo rojo balanceando el bate a la pelota en el campo de pelota.; El niño está balanceando un bate
+contradicción; un niño bateo con un casco rojo puesto.; niño está leyendo un libro de cuentos en la biblioteca
+vinculación; Un niño pequeño que batea con un casco rojo puesto.; un niño pequeño que batea con un casco rojo
+neutral; un niño pequeño que batea con un casco rojo puesto.; un niño pequeño de la escuela de California está bateando
+neutral; Un niño con un casco rojo golpea una pelota con un bate.; El niño está jugando béisbol.
+contradicción; Un niño con un casco rojo golpea una pelota con un bate.; El niño está jugando voleibol.
+vinculación; Un niño con un casco rojo golpea una pelota con un bate.; El niño está jugando un juego.
+vinculación; Una mujer en una camioneta parece estar llorando mientras una figura paternal coloca su mano en su mejilla para tranquilizarla.; El hombre está tranquilizando a la mujer que llora.
+neutral; una mujer en un todoterreno parece estar llorando cuando una figura paternal le pone la mano en la mejilla para tranquilizarla; la mujer acaba de sufrir un accidente automovilístico.
+contradicción; una mujer en una camioneta parece estar llorando mientras una figura paterna le pone la mano en la mejilla para tranquilizarla; la mujer está jugando en el parque con sus hijos.
+neutral; Una jovencita siendo consolada por un hombre después de haber visto algo triste y la ha hecho llorar.; la dama es su esposa
+neutral; Una señorita siendo consolada por un hombre después de haber visto algo triste y la ha hecho llorar.; Una señorita llora porque vio a un perro ser atropellado por un automóvil.
+vinculación; Una jovencita siendo consolada por un hombre después de haber visto algo triste y la ha hecho llorar.; Una dama está llorando
+contradicción; Una señorita siendo consolada por un hombre después de haber visto algo triste y la ha hecho llorar.; La mujer se ríe.
+vinculación; Una jovencita siendo consolada por un hombre después de haber visto algo triste y la ha hecho llorar.; Una dama es consolada
+contradicción; Una jovencita siendo consolada por un hombre después de haber visto algo triste y la ha hecho llorar.; La dama está feliz.
+neutral; Una señorita siendo consolada por un hombre después de haber visto algo triste y la ha hecho llorar.; La mujer está en un funeral.
+contradicción; Una señorita siendo consolada por un hombre después de haber visto algo triste y la ha hecho llorar.; la señora está dormida en el trabajo
+vinculación; Una señorita siendo consolada por un hombre después de haber visto algo triste y la ha hecho llorar.; Una mujer está llorando.
+vinculación; Una señorita siendo consolada por un hombre después de haber visto algo triste y la ha hecho llorar.; La mujer tiene lágrimas en los ojos.
+vinculación; Una jovencita siendo consolada por un hombre después de haber visto algo triste y la ha hecho llorar.; Una jovencita está llorando.
+neutral; Una jovencita siendo consolada por un hombre después de haber visto algo triste y la ha hecho llorar.; El hombre está consolando a su esposa.
+contradicción; Una señorita siendo consolada por un hombre después de haber visto algo triste y la ha hecho llorar.; Una señorita no vio nada en absoluto.
+neutral; Una señorita siendo consolada por un hombre después de haber visto algo triste y la ha hecho llorar.; Una señora acaba de enterarse de que su perro murió
+contradicción; Una jovencita siendo consolada por un hombre después de haber visto algo triste y la ha hecho llorar.; Una dama está sola y feliz mientras ve una película
+vinculación; Un hombre con una camisa azul a cuadros consuela a una mujer que llora en un camión negro.; Un hombre consuela a una mujer que llora.
+neutral; un hombre con una camisa azul a cuadros consuela a una mujer llorando en un camión negro; un hombre consuela a su novia.
+contradicción; Un hombre con una camisa azul a cuadros consuela a una mujer que llora en un camión negro.; Una mujer consuela a un hombre que llora.
+vinculación; Un hombre con una camisa azul y blanca muestra preocupación por una niña en un todoterreno.; Los humanos están interactuando
+contradicción; Un hombre con una camisa azul y blanca muestra preocupación por una niña en un todoterreno; Un hombre que corre por el suelo
+neutral; Un hombre con una camisa azul y blanca muestra preocupación por una niña en un todoterreno.; Un hombre le muestra algo a una mujer
+contradicción; Un hombre mayor sentado afuera al sol mirando algo bajo su paraguas.; El hombre está adentro.
+neutral; Un hombre mayor sentado afuera al sol mirando algo bajo su paraguas.; El hombre está en el parque.
+vinculación; Un hombre mayor sentado afuera al sol mirando algo bajo su paraguas.; Un hombre mayor está afuera.
+vinculación; cuatro hombres están en el escenario interpretando música; los hombres están haciendo ruido.
+neutral; cuatro hombres están en el escenario interpretando música; los hombres son un cuarteto de barbería.
+contradicción; cuatro hombres están en el escenario interpretando música; los hombres están orando en silencio en la iglesia.
+contradicción; pareja mayor está cubierta de sombras por un puente.; león come pájaro
+contradicción; pareja mayor está cubierta de sombras por un puente.; pareja cerca de un gran edificio
+vinculación; Pareja mayor está cubierta de sombras por un puente.; Pareja cubierta de sombras
+neutral; Un hombre y una mujer parados bajo un patio cubierto con el sol brillando a través de las lamas del enrejado.; Dos personas están de pie bajo el sol en su patio recién construido.
+vinculación; Un hombre y una mujer parados bajo un patio cubierto con el sol radiante a través de las lamas del enrejado.; Dos personas están de pie.
+contradicción; Un hombre y una mujer parados bajo un patio cubierto con el sol brillando a través de las lamas del enrejado.; Dos personas bailan en la nieve.
+neutral; Dos personas mayores en un área poco iluminada.; Dos personas mayores están en un callejón oscuro.
+contradicción; Dos personas mayores en un área poco iluminada.; Dos personas mayores son alcanzadas con focos.
+vinculación; Dos personas mayores en un área poco iluminada.; Las personas mayores están en un área oscura.
+vinculación; Un hombre mayor con un chaleco mirando en un contenedor de basura.; Un anciano está mirando en un contenedor de basura.
+neutral; Un hombre mayor con chaleco mirando dentro de un contenedor de basura.; El anciano accidentalmente dejó caer su billetera en el contenedor de basura.
+contradicción; Un hombre mayor vestido con un chaleco mirando en un contenedor de basura.; El anciano está sentado en una mesa leyendo un libro.
+vinculación; Niño sosteniendo a un bebé en un área deteriorada.; El niño tiene al bebé.
+contradicción; Niño sosteniendo a un bebé en un área deteriorada.; El niño sostiene un perro.
+neutral; Niño sosteniendo a un bebé en un área deteriorada.; El niño sostiene a su hermano.
+neutral; Dos adultos jóvenes en un rodeo, uno está ayudando al otro a arreglar una lesión en su brazo después de un breve paseo.; Un adulto está herido por el paseo que tomaron.
+contradicción; Dos adultos jóvenes en un rodeo, uno está ayudando al otro a reparar una lesión en su brazo después de un breve paseo.; Dos adultos jóvenes están jugando baloncesto.
+vinculación; Dos adultos jóvenes en un rodeo, uno está ayudando al otro a reparar una lesión en su brazo después de un breve paseo.; Dos adultos jóvenes están en un rodeo.
+neutral; Dos adultos jóvenes en un rodeo, uno está ayudando al otro a reparar una lesión en su brazo después de un breve viaje.; Uno está tratando de reparar su lesión en el brazo para que puedan acompañarlo en otro viaje.
+neutral; Dos adultos jóvenes en un rodeo, uno está ayudando al otro a reparar una lesión en su brazo después de un breve paseo.; Un adulto joven ayuda a otro después de ser herido por un toro en un rodeo.
+contradicción; dos adultos jóvenes en un rodeo, uno está ayudando al otro a reparar una lesión en su brazo después de un breve paseo.; un rodeo es un lugar seguro para todos los ocupantes
+neutral; dos adultos jóvenes en un rodeo, uno está ayudando al otro a reparar una lesión en su brazo después de un breve viaje; el que está reparando el brazo es un médico capacitado
+vinculación; Dos adultos jóvenes en un rodeo, uno está ayudando al otro a reparar una lesión en su brazo después de un breve paseo.; Dos adultos jóvenes están en un evento de caballos.
+vinculación; Dos adultos jóvenes en un rodeo, uno está ayudando al otro a reparar una lesión en su brazo después de un breve paseo.; hay gente en el rodeo
+neutral; Dos adultos jóvenes en un rodeo, uno está ayudando al otro a reparar una lesión en su brazo después de un breve paseo.; Dos adultos jóvenes quieren montar a caballo.
+contradicción; Dos adultos jóvenes en un rodeo, uno está ayudando al otro a reparar una lesión en su brazo después de un breve paseo.; Dos adultos jóvenes están en un parque acuático
+contradicción; dos adultos jóvenes en un rodeo, uno está ayudando al otro a arreglar una herida en su brazo después de un breve paseo.; un toro se escapa del rodeo.
+vinculación; Dos adultos jóvenes en un rodeo, uno está ayudando al otro a reparar una lesión en su brazo después de un breve paseo.; Un adulto joven ayuda a otro después de una lesión en un rodeo.
+vinculación; Dos adultos jóvenes en un rodeo, uno está ayudando al otro a arreglar una lesión en su brazo después de un breve paseo.; Dos aduts están en un rodeo.
+contradicción; Dos adultos jóvenes en un rodeo, uno está ayudando al otro a reparar una lesión en su brazo después de un breve paseo.; El toro está saltando entre la multitud en un rodeo.
+contradicción; un vaquero en un rodeo se pone un vendaje en el antebrazo, preparándose para su paseo.; un vaquero va a ordeñar las vacas
+vinculación; Un vaquero en un rodeo pone un vendaje en su antebrazo, preparándose para su paseo.; Un vaquero tiene un vendaje en su brazo
+neutral; Un vaquero en un rodeo le pone un vendaje en el antebrazo, preparándose para su paseo.; Un vaquero se lastimó el brazo al disparar una pistola
+contradicción; Una mujer joven está perforando agujeros en una roca con un taladro de impacto; El Pato Lucas es un chef de pasta.
+neutral; Una mujer joven está perforando agujeros en una roca con un taladro de impacto; La roca es dura.
+vinculación; Una mujer joven está perforando agujeros en una roca con un taladro de impacto; Una mujer perfora una roca.
+neutral; Un niño sostiene a una niña pequeña y sucia en su regazo mientras la envuelve en su chaqueta.; La niña es la hermana del niño.
+vinculación; Un niño sostiene a una niña pequeña y sucia en su regazo mientras la envuelve en su chaqueta.; El niño pequeño está cuidando a la niña.
+contradicción; Un niño sostiene a una niña pequeña y sucia en su regazo mientras la envuelve en su chaqueta.; El niño pequeño le está dando a la niña un baño de burbujas.
+vinculación; Dos niños pequeños en malas condiciones tratando de sobrevivir a los elementos.; Los niños son pobres.
+contradicción; Dos niños pequeños en malas condiciones tratando de sobrevivir a los elementos.; Los niños son ricos.
+neutral; Dos niños pequeños en malas condiciones tratando de sobrevivir a los elementos.; Los niños son hermanos.
+neutral; Un niño sostiene a un bebé que parece estar angustiado.; Un niño sostiene a un bebé que llora y necesita un cambio de pañal.
+vinculación; Un niño sostiene a un bebé que parece estar angustiado.; Un niño sostiene a un bebé que llora.
+contradicción; Un niño sostiene a un bebé que parece estar angustiado.; Un niño se sienta junto a un bebé que llora.
+contradicción; Un hermano sosteniendo a su hermano menor afuera en el aire frío.; Hay una pareja de hermano y hermana.
+vinculación; Un hermano que sostiene a su hermano menor afuera en el aire frío.; Hay dos hermanos.
+neutral; Un hermano que sostiene a su hermano menor afuera en el aire frío.; Es invierno.
+neutral; Un anciano con sombrero de paja y paraguas sonríe mientras está sentado y mira algo en la distancia.; El sombrero está sucio.
+contradicción; Un anciano con sombrero de paja y paraguas sonríe mientras está sentado y mira algo en la distancia.; El sombrero está hecho de arcilla.
+vinculación; Un anciano con sombrero de paja y paraguas sonríe mientras está sentado y mira algo en la distancia.; Hay un sombrero de paja.
+vinculación; Tres porristas están apoyando a su equipo.; Las porristas muestran su apoyo al equipo.
+contradicción; Tres porristas están apoyando a su equipo.; Las porristas se están tomando un descanso.
+neutral; Tres porristas están apoyando a su equipo.; Uno de los porristas es un hombre.
+contradicción; Un niño con una camisa roja con letras amarillas en ella y una gorra deportiva roja está en cuclillas en aguas poco profundas y tocando un balde amarillo lleno de arena.; El niño pequeño con una camisa roja y letras amarillas, se paró en un taburete para meter ambas manos en el agua sucia del fregadero.
+neutral; Un niño con una camisa roja con letras amarillas en ella y una gorra deportiva roja está en cuclillas en aguas poco profundas y tocando un balde amarillo lleno de arena.; Tratando de llamar la atención de sus padres, el pequeño diablillo de camisa roja continuó sacar puñados de arena del balde amarillo y arrojarlos a la gente que yacía en la playa.
+vinculación; Un niño con una camisa roja con letras amarillas en ella y una gorra deportiva roja está en cuclillas en aguas poco profundas y tocando un balde amarillo lleno de arena.; El niño de la camisa roja tenía su dedo tocando el balde amarillo lleno de arena. .
+neutral; Una novia y su novio abrazados.; Las dos personas se acaban de casar.
+contradicción; Una novia y su novio abrazados.; Las dos personas están nadando.
+vinculación; Una novia y su novio abrazados.; La novia y el novio abrazados.
+vinculación; Cuatro niños vestidos con trajes de nieve trepan por una ladera nevada.; Cuatro niños están afuera en la nieve.
+contradicción; Cuatro niños vestidos con trajes de nieve trepan por una ladera nevada.; Es verano y hace calor afuera.
+neutral; Cuatro niños vestidos con trajes de nieve trepan por una ladera nevada.; Los niños van en trineo.
+contradicción; Cuatro niños subiendo una colina cubierta de nieve.; Cuatro niños suben a un palacio helado en la campiña noruega
+neutral; Cuatro niños subiendo una colina cubierta de nieve.; Cuatro niños están subiendo en la nieve de una colina cubierta
+vinculación; Cuatro niños subiendo una colina cubierta de nieve.; Cuatro niños están subiendo a una colina nevada.
+neutral; Cuatro niños suben una colina nevada, uno lucha.; Los niños suben una colina cubierta de nieve durante las vacaciones escolares
+vinculación; Cuatro niños suben una colina nevada, uno lucha.; Los niños están subiendo una colina cubierta de nieve
+contradicción; Cuatro niños suben una colina nevada, uno lucha.; Niños jugando en la arena
+neutral; Una mujer con una bata blanca y un hombre con un traje gris abrazados.; Una novia abraza a su novio.
+vinculación; Una mujer con una bata blanca y un hombre con un traje gris abrazados.; Una mujer con una bata blanca.
+contradicción; Una mujer con una bata blanca y un hombre con un traje gris abrazados.; Un perro está comiendo.
+neutral; Los novios se paran juntos frente a una valla de madera.; Los recién casados ​​se toman una foto.
+vinculación; Una novia y un novio se paran juntos frente a una valla de madera.; Un hombre y una mujer están afuera.
+contradicción; Una novia y un novio se paran juntos frente a una valla de madera.; La novia camina por el pasillo para saludar a su novio.
+neutral; una novia y un novio están parados frente a una cerca.; la novia tiene el pelo rubio.
+contradicción; Una novia y un novio están parados frente a una valla.; La novia y el novio bailan en el hotel.
+vinculación; Una novia y un novio están parados frente a una cerca.; Una novia y el novio están parados cerca de una cerca.
+neutral; Un hombre cruza una calle concurrida de la ciudad.; Un hombre casi es atropellado por un automóvil.
+contradicción; Un hombre cruza una calle concurrida de la ciudad.; Un hombre cruza una calle sin prestar atención al tráfico.
+vinculación; Un hombre cruza una calle concurrida de la ciudad.; Un hombre se abre paso entre el tráfico, sin pie.
+neutral; Un hombre con camisa blanca y corbata cruzando la calle.; Un hombre con uniforme camina por una calle muy transitada.
+vinculación; Un hombre con camisa blanca y corbata cruzando la calle.; Un hombre camina afuera.
+contradicción; Un hombre con camisa blanca y corbata cruzando la calle; Una mujer cruzando la calle.
+contradicción; Un hombre cruza una calle con la corbata puesta por encima del hombro.; Una mujer cruza una calle con la corbata puesta por encima del hombro.
+neutral; Un hombre cruza una calle con la corbata al hombro.; Un hombre cruza una calle muy transitada con la corbata al hombro.
+vinculación; Un hombre cruza una calle con la corbata al hombro.; Un hombre cruza una calle con la corbata al viento
+contradicción; Un hombre mayor con una bonita camisa de vestir con una corbata al hombro, cruzando una calle en el centro de la ciudad.; Un hombre está sentado en un café del centro de la ciudad.
+neutral; Un hombre mayor con una bonita camisa de vestir con una corbata al hombro, cruzando una calle en el centro de la ciudad.; Un hombre cruzando una calle del centro para llegar a su tienda favorita.
+vinculación; Un hombre mayor con una bonita camisa de vestir con una corbata al hombro, cruzando una calle en el centro de la ciudad.; Un hombre cruzando una calle del centro.
+neutral; dos mujeres con sombreros de colores se sientan en un campo.; las mujeres son amigas.
+vinculación; Dos mujeres con sombreros de colores se sientan en un campo.; Dos mujeres están sentadas.
+contradicción; Dos mujeres con sombreros de colores se sientan en un campo.; Las mujeres están de pie.
+vinculación; Un hombre con traje sostiene una sartén.; Hay un hombre cocinando.
+neutral; Un hombre de traje sostiene una sartén.; El hombre está cocinando antes del trabajo.
+contradicción; un hombre de traje sostiene una sartén; el hombre hace malabarismos.
+neutral; Un hombre bien vestido sostiene una sartén en público.; El hombre está cocinando en la calle.
+vinculación; Un hombre bien vestido sostiene una sartén en público.; Un hombre se viste bien.
+contradicción; Un hombre bien vestido sostiene una sartén en público.; El hombre se está subiendo a un avión.
+vinculación; Un hombre con traje gris y corbata morada está volteando un panqueque en medio de una acera.; La persona está volteando comida.
+neutral; Un hombre con traje gris y corbata morada está volteando un panqueque en medio de una acera.; La persona trabaja para IHOP.
+contradicción; un hombre con traje gris y corbata morada está volteando un panqueque en medio de una acera; la persona lleva un traje amarillo.
+neutral; Un hombre blanco con cabello negro vestido muy bien con pantalones de vestir grises, blazer y corbata morada se encuentra en la calle frente a un garaje volteando un panqueque que es capturado en el aire.; Un vendedor de panqueques está volteando panqueques para los clientes.
+neutral; Un hombre blanco con cabello negro vestido muy bien con pantalones de vestir grises, blazer y corbata morada se encuentra en la calle frente a un garaje volteando un panqueque que se captura en el aire.; El hombre no ha volteado panqueques durante años, y está sorprendido de que todavía pueda hacerlo.
+contradicción; Un hombre blanco con cabello negro vestido muy bien con pantalón de vestir gris, blazer y corbata morada se para en la calle frente a un garaje volteando un panqueque que se captura en el aire.; El hombre está en su cocina, friendo huevos en la estufa. .
+neutral; Un hombre blanco con cabello negro vestido muy bien con pantalón de vestir gris, blazer y corbata morada se para en la calle frente a un garaje volteando un panqueque que es capturado en el aire.; Un hombre está cocinando el desayuno para otros en su vecindario.
+neutral; Un hombre blanco con cabello negro vestido muy bien con pantalón de vestir gris, blazer y corbata morada se para en la calle frente a un garaje volteando un panqueque que se captura en el aire.; El hombre se va a trabajar.
+contradicción; Un hombre blanco con cabello negro vestido muy bien con pantalones de vestir grises, blazer y corbata morada se para en la calle frente a un garaje volteando un panqueque que se captura en el aire.; un tipo está pintando una casa
+vinculación; Un hombre blanco con cabello negro vestido muy bien con pantalones de vestir grises, blazer y corbata morada se para en la calle frente a un garaje volteando un panqueque que es capturado en el aire.; Un hombre está volteando un panqueque.
+vinculación; Un hombre blanco con cabello negro vestido muy bien con pantalones de vestir grises, blazer y corbata morada se para en la calle frente a un garaje volteando un panqueque que es capturado en el aire.; Un hombre de cabello negro está parado en la calle volteando un pankcake.
+vinculación; Un hombre blanco con cabello negro vestido muy bien con pantalón de vestir gris, blazer y corbata morada se para en la calle frente a un garaje volteando un panqueque que se captura en el aire.; El hombre está bien vestido.
+contradicción; Un hombre blanco con cabello negro vestido muy bien con pantalón de vestir gris, blazer y corbata morada se para en la calle frente a un garaje volteando un panqueque que es capturado en el aire.; El hombre está vertiendo masa de panqueques por todo su cuerpo desnudo.
+neutral; Un hombre blanco con cabello negro vestido muy bien con pantalones de vestir grises, blazer y corbata morada se para en la calle frente a un garaje volteando un panqueque que es capturado en el aire.; un chico está cocinando panqueques para su familia
+vinculación; Un hombre blanco con cabello negro vestido muy bien con pantalones de vestir grises, chaqueta y corbata morada se para en la calle frente a un garaje volteando un panqueque que es capturado en el aire.; Un hombre está cocinando panqueques en su camino de entrada.
+contradicción; Un hombre blanco con cabello negro vestido muy bien con pantalones de vestir grises, blazer y corbata morada se para en la calle frente a un garaje volteando un panqueque que es capturado en el aire.; Un hombre está cocinando en su cocina mientras sus hijos miran.
+vinculación; Un hombre blanco con cabello negro vestido muy bien con pantalones de vestir grises, blazer y corbata morada se para en la calle frente a un garaje volteando un panqueque que se captura en el aire.; un tipo está cocinando panqueques en su garaje
+contradicción; Un hombre blanco con cabello negro vestido muy bien con pantalones de vestir grises, blazer y corbata morada se para en la calle frente a un garaje volteando un panqueque que es capturado en el aire.; El hombre de cabello oscuro está persiguiendo a los leones de su césped.
+vinculación; Este es un caballero de cabello oscuro bien vestido con una chaqueta de traje gris, pantalón gris, suéter negro y corbata lavanda con un bigote y una perilla sosteniendo una sartén, de pie en la acera frente a un garaje de puertas enrollables. puerta.; Un hombre bien vestido está parado frente a la puerta de un garaje.
+neutral; Este es un caballero de cabello oscuro bien vestido con una chaqueta de traje gris, pantalón gris, suéter negro y corbata lavanda con un bigote y una perilla sosteniendo una sartén, de pie en la acera frente a un garaje abierto con ruedas. puerta.; Un hombre se para frente a un garaje esperando que se abra.
+contradicción; este es un caballero de cabello oscuro bien vestido con una chaqueta de traje gris, pantalón gris, suéter negro y corbata lavanda con un bigote y una perilla sosteniendo una sartén, de pie en la acera frente a un garaje de puertas enrollables. puerta.; Un hombre está corriendo un maratón.
+neutral; Este es un caballero de cabello oscuro bien vestido con una chaqueta de traje gris, pantalón gris, suéter negro y corbata lavanda con un bigote y una perilla sosteniendo una sartén, de pie en la acera frente a un garaje abierto con ruedas. puerta.; El caballero está felizmente parado en la acera.
+contradicción; este es un caballero de cabello oscuro bien vestido con una chaqueta de traje gris, pantalón gris, suéter negro y corbata lavanda con un bigote y una perilla sosteniendo una sartén, de pie en la acera frente a un garaje de puertas enrollables. puerta.; Una mujer está cocinando en la cocina.
+vinculación; Este es un caballero de cabello oscuro bien vestido con una chaqueta de traje gris, pantalón gris, suéter negro y corbata lavanda con un bigote y una perilla sosteniendo una sartén, de pie en la acera frente a un garaje de puertas enrollables. puerta.; Un hombre sostiene una sartén.
+contradicción; este es un caballero de cabello oscuro bien vestido con una chaqueta de traje gris, pantalón gris, suéter negro y corbata lavanda con un bigote y una perilla sosteniendo una sartén, de pie en la acera frente a un garaje de puertas enrollables. puerta.; El hombre está en la iglesia.
+contradicción; este es un caballero de cabello oscuro bien vestido con una chaqueta de traje gris, pantalón gris, suéter negro y corbata lavanda con un bigote y una perilla sosteniendo una sartén, de pie en la acera frente a un garaje de puertas enrollables. puerta.; Esta es una mujer con una chaqueta roja parada frente a la puerta de un garaje.
+contradicción; este es un caballero de cabello oscuro bien vestido con una chaqueta de traje gris, pantalón gris, suéter negro y corbata lavanda con un bigote y una perilla sosteniendo una sartén, de pie en la acera frente a un garaje de puertas enrollables. puerta.; Un hombre sostiene un boombox
+neutral; Este es un caballero de cabello oscuro bien vestido con una chaqueta de traje gris, pantalón gris, suéter negro y corbata lavanda con un bigote y una perilla sosteniendo una sartén, de pie en la acera frente a un garaje abierto con ruedas. puerta.; Un hombre bien vestido está mirando artículos en una venta de garaje y está comprando una sartén.
+neutral; Este es un caballero de cabello oscuro bien vestido con una chaqueta de traje gris, pantalón gris, suéter negro y corbata lavanda con un bigote y una perilla sosteniendo una sartén, de pie en la acera frente a un garaje abierto con ruedas. puerta.; Un hombre está a punto de preparar el desayuno.
+neutral; Este es un caballero de cabello oscuro bien vestido con una chaqueta de traje gris, pantalón gris, suéter negro y corbata lavanda con un bigote y una perilla sosteniendo una sartén, de pie en la acera frente a un garaje abierto con ruedas. puerta.; Un hombre está tratando de llamar la atención de la gente en un garaje.
+vinculación; Este es un caballero de cabello oscuro bien vestido con una chaqueta de traje gris, pantalón gris, suéter negro y corbata lavanda con un bigote y una perilla sosteniendo una sartén, de pie en la acera frente a un garaje de puertas enrollables. puerta.; Un hombre está parado afuera.
+vinculación; Este es un caballero de cabello oscuro bien vestido con una chaqueta de traje gris, pantalón gris, suéter negro y corbata lavanda con un bigote y una perilla sosteniendo una sartén, de pie en la acera frente a un garaje de puertas enrollables. puerta.; El caballero está parado frente a la puerta de un garaje.
+vinculación; Este es un caballero de cabello oscuro bien vestido con una chaqueta de traje gris, pantalón gris, suéter negro y corbata lavanda con un bigote y una perilla sosteniendo una sartén, de pie en la acera frente a un garaje de puertas enrollables. puerta.; Un hombre se para frente a un garaje.
+neutral; Un hombre y una mujer jóvenes interactúan con una anciana en silla de ruedas.; Un hombre y una mujer están hablando con una anciana sobre la vida
+vinculación; Un hombre y una mujer jóvenes interactúan con una anciana en silla de ruedas.; Un hombre y una mujer están hablando con una anciana
+contradicción; Un hombre y una mujer jóvenes interactúan con una anciana en silla de ruedas.; Un hombre y una mujer no están hablando con una anciana
+vinculación; Dos adolescentes interactuando con la población mayor.; Algunos niños y ancianos.
+neutral; Dos adolescentes interactuando con la población mayor.; Algunos niños leen a personas mayores.
+contradicción; Dos adolescentes interactuando con la población mayor.; Algunas personas de mediana edad se sientan solas.
+neutral; Un hombre vestido con una camisa oscura y una niña con una camiseta sin mangas oscura están de pie junto a una anciana sentada en una silla de ruedas.; Una familia está pasando el día junta
+contradicción; Un hombre vestido con una camisa oscura y una niña con una camiseta sin mangas oscura están de pie junto a una anciana sentada en una silla de ruedas.; Un hombre lleva una camisa clara
+vinculación; Un hombre vestido con una camisa oscura y una niña con una camiseta sin mangas oscura están de pie junto a una anciana sentada en una silla de ruedas.; Un hombre lleva una camisa oscura.
+vinculación; 2 personas se ponen de pie vestidas de negro en una casa de ancianos, mientras que algunos espectadores se sientan en sillas de ruedas cercanas.; Algunas personas están sentadas mientras que otras están de pie
+contradicción; 2 personas se ponen de pie vestidas de negro en una casa de ancianos, mientras que algunos espectadores se sientan en sillas de ruedas cercanas.; En la escuela primaria la gente estaba esperando el almuerzo
+neutral; 2 personas se ponen de pie vestidas de negro en una residencia de ancianos, mientras que algunos espectadores se sientan en sillas de ruedas cercanas.; Las personas en las sillas de ruedas esperaban que los animadores fueran
+vinculación; Un hombre corpulento está parado al lado de un edificio.; El hombre tiene sobrepeso.
+contradicción; Un hombre corpulento está parado al lado de un edificio.; El hombre es delgado.
+neutral; Un hombre corpulento está parado al lado de un edificio.; El hombre trabaja en el edificio.
+neutral; Un hombre está de pie y hablando con otro hombre que está arrodillado sobre unos cables.; El hombre es un electricista.
+vinculación; Un hombre está de pie y habla con otro hombre que está arrodillado sobre unos cables.; El hombre está cerca del otro hombre.
+contradicción; Un hombre está de pie y habla con otro hombre que está arrodillado sobre unos cables.; El hombre está orando en la iglesia.
+vinculación; un perrito marrón se para sobre sus patas traseras con un juguete rojo en la boca.; Un perro se para con un juguete en la boca.
+contradicción; un perrito marrón se para sobre sus patas traseras con un juguete rojo en la boca.; Un perro está tomando una siesta.
+neutral; un perrito marrón se para sobre sus patas traseras con un juguete rojo en la boca.; Un perro se para con su juguete favorito en la boca.
+neutral; Un hombre con una camisa negra a punto de apagar velas en un pastel, una de las velas que parece una bengala.; Un hombre con una camisa negra a punto de apagar velas en un pastel de chocolate, una de las velas que parece un llamarada.
+vinculación; Un hombre con una camisa negra a punto de soplar velas en un pastel, una de las velas parece una bengala.; Una persona tiene un pastel.
+contradicción; Un hombre con una camisa negra a punto de apagar velas en un pastel, una de las velas parece una bengala.; Un hombre está horneando un pastel para su cliente en la panadería.
+vinculación; Hombre de negro se prepara para celebrar su cumpleaños soplando las velas de su pastel.; Hay una persona junto a un pastel
+contradicción; el hombre de negro se prepara para celebrar su cumpleaños apagando las velas de su pastel; un hombre está durmiendo.
+neutral; El hombre de negro se prepara para celebrar su cumpleaños apagando las velas de su pastel.; Un gran hombre preparando
+contradicción; Hombre de negro se prepara para celebrar su cumpleaños soplando las velas de su pastel.; Un hombre observa la puesta de sol en la playa
+vinculación; El hombre de negro se prepara para celebrar su cumpleaños soplando las velas de su pastel.; Un hombre está celebrando el día de su nacimiento.
+neutral; el hombre de negro se prepara para celebrar su cumpleaños soplando las velas de su pastel.; el hombre con un gran sombrero de cumpleaños se para junto a su pastel de cumpleaños
+vinculación; El hombre de negro se prepara para celebrar su cumpleaños soplando las velas de su pastel.; El hombre sopla las velas del pastel
+contradicción; el hombre de negro se prepara para celebrar su cumpleaños apagando las velas de su pastel; es el cumpleaños de una mujer.
+vinculación; El hombre de negro se prepara para celebrar su cumpleaños apagando las velas de su pastel.; Es el cumpleaños de un hombre.
+contradicción; El hombre de negro se prepara para celebrar su cumpleaños soplando las velas de su pastel.; La mujer sopla las velas del pastel.
+neutral; Hombre de negro se prepara para celebrar su cumpleaños apagando las velas de su pastel.; Un hombre se prepara para comer un pastel.
+neutral; El hombre de negro se prepara para celebrar su cumpleaños apagando las velas de su pastel.; La gente está cantando feliz cumpleaños.
+vinculación; El hombre de negro se prepara para celebrar su cumpleaños soplando las velas de su pastel.; Una persona que prepara
+contradicción; El hombre de negro se prepara para celebrar su cumpleaños apagando las velas de su pastel.; Un pájaro está bebiendo leche vieja de un estanque.
+neutral; El hombre de negro se prepara para celebrar su cumpleaños apagando las velas de su pastel.; El hombre acaba de celebrar su cumpleaños.
+vinculación; Dos hombres están sentados en una mesa frente a una tarta de cumpleaños decorada con capullos de rosa, velas y una gran luz.; Hay una tarta de cumpleaños sobre la mesa.
+contradicción; Dos hombres están sentados en una mesa frente a un pastel de cumpleaños decorado con capullos de rosa, velas y una gran luz.; Los hombres están parados en la cocina.
+neutral; Dos hombres están sentados en una mesa frente a un pastel de cumpleaños decorado con capullos de rosa, velas y una luz grande.; "El pastel de cumpleaños dice" "¡Feliz cumpleaños número 40!" ""
+contradicción; Un pastel con cinco velas regulares y una vela alta que dispara chispas está en una mesa frente a dos hombres.; Un par de siameses celebran su cumpleaños en completa oscuridad.
+vinculación; Un pastel con cinco velas regulares y una vela alta que dispara chispas está sobre una mesa frente a dos hombres.; Un pastel decorado emite luz.
+neutral; Un pastel con cinco velas regulares y una vela alta que dispara chispas está en una mesa frente a dos hombres.; Un par de gemelos celebran su cumpleaños.
+neutral; Un anciano disfruta de la vista bajo una sombrilla para evitar los rayos del sol.; El hombre está cansado
+contradicción; Un anciano disfruta de la vista bajo una sombrilla para evitar los rayos del sol.; El hombre está enojado
+vinculación; Un anciano disfruta de la vista bajo un paraguas para evitar los rayos del sol.; Un hombre tiene un paraguas
+neutral; El hombre tiene un pastel decorado con fuegos artificiales de interior.; El hombre espera sorprender a la gente con los fuegos artificiales.
+vinculación; El hombre tiene un pastel decorado con fuegos artificiales de interior.; El hombre ha puesto fuegos artificiales en un pastel decorado.
+contradicción; el hombre tiene una tarta decorada con fuegos artificiales de interior; la tarta estaba riquísima.
+vinculación; Una larga fila espera ansiosamente para entrar en una tienda cerrada.; Hay una larga fila en una tienda
+contradicción; una larga fila espera ansiosamente para entrar en una carpa cerrada.; no hay nadie en la fila
+neutral; Una larga fila espera ansiosamente para entrar en una carpa cerrada.; La carpa está en un concierto
+contradicción; una multitud se reúne detrás de la cerca cerca de una carpa azul.; grupo de personas sentadas junto a una fogata
+vinculación; una multitud se reúne detrás de la cerca cerca de una tienda azul.; gente reunida junto a una tienda azul
+neutral; una multitud se reúne detrás de la cerca cerca de una carpa azul.; grupo de personas reunidas detrás de la cerca
+neutral; Una multitud de personas está frente a una carpa que está cerrada.; Los medios están esperando fuera de la carpa médica para recibir actualizaciones.
+contradicción; Una multitud de personas está frente a una carpa que está cerrada.; Los ratones están huyendo del gato.
+neutral; Una multitud de personas está frente a una carpa que está cerrada.; La gente está esperando.
+neutral; Se está formando una fila de personas frente a una carpa que parece estar cerrada al público.; Personas haciendo fila esperando ingresar al circo en la carpa naranja.
+vinculación; Una fila de personas se está formando frente a una carpa que parece estar cerrada al público.; La gente está haciendo fila.
+contradicción; una fila de personas se está formando frente a una carpa que parece estar cerrada al público; la gente está sentada en un círculo.

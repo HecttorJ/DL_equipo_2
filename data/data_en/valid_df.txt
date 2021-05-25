@@ -1,0 +1,251 @@
+similarity;sentence1;sentence2
+entailment;Someone riding sideways on a motorcycle.;Someone is riding side saddled on a motor bike.
+contradiction;Someone riding sideways on a motorcycle.;Someone is parked in a car on the street
+contradiction;Someone riding sideways on a motorcycle.;The individual sat on a bench in the subway terminal.
+entailment;Someone riding sideways on a motorcycle.;A person is on a motorcycle.
+neutral;Someone riding sideways on a motorcycle.;The rider is getting ready to leap off the motorcycle.
+neutral;Someone riding sideways on a motorcycle.;A child is just learning to ride a motorcycle, and doesn't quite know how to mount.
+entailment;Someone riding sideways on a motorcycle.;There is a person on a machine.
+neutral;Someone riding sideways on a motorcycle.;The person wanted to show off to the crowd of onlookers.
+entailment;Someone riding sideways on a motorcycle.;A person is on a motorcycle.
+neutral;Someone riding sideways on a motorcycle.;A man rides a motorcycle sideways on the countryside
+contradiction;Someone riding sideways on a motorcycle.;The birds in the tree are singing and eating worms.
+entailment;Someone riding sideways on a motorcycle.;A person on a motorcycle is ridding sideways
+neutral;Someone riding sideways on a motorcycle.;A motorcycle rider is showing off.
+neutral;Young man standing on one hand in front of an audience.;The crowd applauded the young man for standing on one hand.
+contradiction;Young man standing on one hand in front of an audience.;The young man played his guitar.
+entailment;Young man standing on one hand in front of an audience.;The young adult stood on one hand during his performance.
+contradiction;Man in a hood performing in front of a group of onlookers.;the man is at home sleeping
+entailment;Man in a hood performing in front of a group of onlookers.;a man is performing
+neutral;Man in a hood performing in front of a group of onlookers.;the man is paid
+entailment;A guy is on one hand throwing his feet up surrounded by a crowd.;A man performs tricks for a crowd.
+contradiction;A guy is on one hand throwing his feet up surrounded by a crowd.;A guy is practicing his stunts in his living room.
+neutral;A guy is on one hand throwing his feet up surrounded by a crowd.;A man is performing on a city sidewalk.
+contradiction;A man in a gray hat and tank top with black shorts doing a handstand.;The man is reading a newspaper while seated at his desk.
+neutral;A man in a gray hat and tank top with black shorts doing a handstand.;The man is performing at the circus.
+entailment;A man in a gray hat and tank top with black shorts doing a handstand.;The man has his hands on the ground.
+contradiction;A woman with blond-hair, glasses, necklace, and a green and blue floral dress is holding a yellow container.;A woman with brown hair is holding a frying pan.
+neutral;A woman with blond-hair, glasses, necklace, and a green and blue floral dress is holding a yellow container.;A woman arrives at a potluck and brings a container of her famous stew.
+entailment;A woman with blond-hair, glasses, necklace, and a green and blue floral dress is holding a yellow container.;A blond woman in a floral dress is holding a container.
+neutral;A lady sitting on the edge of a dock reading a book and listening to music.;A woman is outdoors.
+contradiction;A lady sitting on the edge of a dock reading a book and listening to music.;A woman is inside watching TV.
+entailment;A lady sitting on the edge of a dock reading a book and listening to music.;A lady is outside reading and listening to music.
+entailment;A man is getting a book autographed.;The gentleman proffered his book for an autograph
+contradiction;A man is getting a book autographed.;The man was buying diapers at the local Costco
+neutral;A man is getting a book autographed.;The man wanted the famous author to sign his book
+contradiction;A man with a beard and a woman in sunglasses are standing in front of a liquor store.;The children are in school.
+entailment;A man with a beard and a woman in sunglasses are standing in front of a liquor store.;The man and women are standing.
+neutral;A man with a beard and a woman in sunglasses are standing in front of a liquor store.;The man and woman are buying beer.
+entailment;A man and woman stand on a one way road in front of a red stuccoed building.;Two people stand on a road by a building.
+contradiction;A man and woman stand on a one way road in front of a red stuccoed building.;A man and woman standing on the sidewalk outside of the subway station.
+neutral;A man and woman stand on a one way road in front of a red stuccoed building.;A married couple stand on the road outside of their farmhouse.
+neutral;"Two people look toward the camera as they cross the street in front of a red building with a sign saying, ""Royal.""";Two men cross a street.
+contradiction;"Two people look toward the camera as they cross the street in front of a red building with a sign saying, ""Royal.""";Two sister relax by a pool.
+entailment;"Two people look toward the camera as they cross the street in front of a red building with a sign saying, ""Royal.""";A red building has a sign.
+neutral;A man in a blue striped shirt and jeans along with a woman in a brown shirt walking across the street.;A man and his sister cross the street to meet their parents.
+contradiction;A man in a blue striped shirt and jeans along with a woman in a brown shirt walking across the street.;A man wearing a striped shirt and a woman wearing a polka dotted shirt cross the street.
+entailment;A man in a blue striped shirt and jeans along with a woman in a brown shirt walking across the street.;Two people are walking on the street.
+entailment;Two guys and two girls are playing a casino game.;People are playing a game.
+contradiction;Two guys and two girls are playing a casino game.;One guy and Twenty girls are shooting guns.
+neutral;Two guys and two girls are playing a casino game.;Two guys and two girls are on a double date.
+contradiction;A man and a woman look to their left near a liquor store.;A man and a woman sleeping in their bed
+entailment;A man and a woman look to their left near a liquor store.;A man and a woman near a liquor store
+neutral;A man and a woman look to their left near a liquor store.;Husband and wife near a liquor store
+neutral;A man dressed as a pirate stands next to a man playing a saxophone as well as a man playing an accordion as viewers watch.;The men are a local comedy act at the new comedy club.
+entailment;A man dressed as a pirate stands next to a man playing a saxophone as well as a man playing an accordion as viewers watch.;There are three men in this picture
+contradiction;A man dressed as a pirate stands next to a man playing a saxophone as well as a man playing an accordion as viewers watch.;The men are best friends trying to settle a bet of who is better at swimming.
+neutral;A saxophone player dressed in a blue sweatshirt and an accordion player entertain people on the street, including a pirate.;A sax player plays for money on the street
+entailment;A saxophone player dressed in a blue sweatshirt and an accordion player entertain people on the street, including a pirate.;A sax player entertains people
+contradiction;A saxophone player dressed in a blue sweatshirt and an accordion player entertain people on the street, including a pirate.;A drummer plays on the street
+entailment;Man dressed as a Pirate listens with a crowd to a band playing.;man dressed as pirate
+neutral;Man dressed as a Pirate listens with a crowd to a band playing.;pirates put on a concert
+contradiction;Man dressed as a Pirate listens with a crowd to a band playing.;girl cries loud
+contradiction;An eclectic group of musicians and actors perform for a group of tourists.;A monkey is eating a banana
+neutral;An eclectic group of musicians and actors perform for a group of tourists.;The musicians and actors are improvising.
+entailment;An eclectic group of musicians and actors perform for a group of tourists.;Tourist are watching a performance
+neutral;Musicians playing to a crowd of people on the street.;The street is long.
+entailment;Musicians playing to a crowd of people on the street.;There are people.
+contradiction;Musicians playing to a crowd of people on the street.;The street has no people.
+contradiction;A woman with an umbrella following a car on a billboard.;A man is on a billboard.
+neutral;A woman with an umbrella following a car on a billboard.;A woman is on an advertisement.
+entailment;A woman with an umbrella following a car on a billboard.;A woman is on a billboard.
+entailment;A young man does a trick on his skateboard in a somewhat crowded park area.;A young man skateboarding.
+neutral;A young man does a trick on his skateboard in a somewhat crowded park area.;A young man does a trick on his skateboard for an audience.
+contradiction;A young man does a trick on his skateboard in a somewhat crowded park area.;A young man diving into a pool.
+entailment;Muzzled greyhounds are racing on the track.;Dogs race on the track.
+neutral;Muzzled greyhounds are racing on the track.;The dogs are racing for practice for a big competition coming up.
+contradiction;Muzzled greyhounds are racing on the track.;Muzzled greyhouds are eating Kibbles 'N Bits out of a cereal bowl.
+neutral;Dogs race each other on a muddy track.;The dogs are greyhounds
+entailment;Dogs race each other on a muddy track.;The track is muddy
+contradiction;Dogs race each other on a muddy track.;The track is dry
+neutral;Race dogs midair while they run.;Huskies are racing in the iditarod
+contradiction;Race dogs midair while they run.;Fish are swimming in circles
+entailment;Race dogs midair while they run.;Dogs are racing
+entailment;A boy in a green sweatshirt and blue jeans performs a trick on a skateboard while spectators in the background are looking on.;A young man rides a skateboard.
+neutral;A boy in a green sweatshirt and blue jeans performs a trick on a skateboard while spectators in the background are looking on.;The skateboarder performs for the judges.
+contradiction;A boy in a green sweatshirt and blue jeans performs a trick on a skateboard while spectators in the background are looking on.;The piano player finishes his piece of music.
+contradiction;A male in a green sweatshirt and blue jeans is doing a skateboard trick on a tiled outdoor surface along a river walk.;A man is riding a bike in a park.
+entailment;A male in a green sweatshirt and blue jeans is doing a skateboard trick on a tiled outdoor surface along a river walk.;A skateboarder does a trick.
+neutral;A male in a green sweatshirt and blue jeans is doing a skateboard trick on a tiled outdoor surface along a river walk.;A skateboarder is grinding along a river walk.
+entailment;A man in a hoodie does an ollie on his skateboard with people in the park in the background.;The people are standing near a man doing an ollie.
+entailment;A man in a hoodie does an ollie on his skateboard with people in the park in the background.;A man is skating.
+neutral;A man in a hoodie does an ollie on his skateboard with people in the park in the background.;The people in the park are watching the skateboarder.
+entailment;A man in a hoodie does an ollie on his skateboard with people in the park in the background.;The man is in the park.
+entailment;A man in a hoodie does an ollie on his skateboard with people in the park in the background.;a man rides a skateboard
+contradiction;A man in a hoodie does an ollie on his skateboard with people in the park in the background.;The man is riding his bike down the fast lane.
+contradiction;A man in a hoodie does an ollie on his skateboard with people in the park in the background.;a man is asleep in front of a cozy fire
+contradiction;A man in a hoodie does an ollie on his skateboard with people in the park in the background.;A man in a tux rides a cab.
+entailment;A man in a hoodie does an ollie on his skateboard with people in the park in the background.;A man is skateboarding near the park.
+contradiction;A man in a hoodie does an ollie on his skateboard with people in the park in the background.;The skateboard is on the ground.
+neutral;A man in a hoodie does an ollie on his skateboard with people in the park in the background.;a man is a skilled skateboarder
+neutral;A man in a hoodie does an ollie on his skateboard with people in the park in the background.;The man has never done this trick before.
+neutral;A man in a hoodie does an ollie on his skateboard with people in the park in the background.;A man with ripped jeans skateboards.
+neutral;A man in a hoodie does an ollie on his skateboard with people in the park in the background.;The man is good with a skateboard.
+contradiction;A man in a hoodie does an ollie on his skateboard with people in the park in the background.;The man is sitting down on his skateboard.
+entailment;A man in a green hoodie is trying to do a trick on his skateboard in a park.;a man in green
+neutral;A man in a green hoodie is trying to do a trick on his skateboard in a park.;the man is white
+contradiction;A man in a green hoodie is trying to do a trick on his skateboard in a park.;the man is nude
+entailment;Little redheaded boy looking at a toy train.;A little boy is watching a toy train
+contradiction;Little redheaded boy looking at a toy train.;A little boy is playing catch
+neutral;Little redheaded boy looking at a toy train.;A little boy is playing with a toy train
+neutral;A woman sits on a stone wall and talks on her phone.;A woman talking to her sister on the phone.
+contradiction;A woman sits on a stone wall and talks on her phone.;A woman reading the newspaper.
+entailment;A woman sits on a stone wall and talks on her phone.;A woman talking on the phone.
+neutral;Group of people pointing.;A group of people are pointing towards the commotion happening in the street.
+contradiction;Group of people pointing.;A group of people are sitting down with their hands folded.
+entailment;Group of people pointing.;A couple of people have their arm extended.
+contradiction;Two women are sitting on a rock next to an open field.;Two women dancing.
+entailment;Two women are sitting on a rock next to an open field.;Two women sitting on a rock.
+neutral;Two women are sitting on a rock next to an open field.;Two women taking a break after running a mile.
+neutral;A boy wearing blue short standing on the traffic signal pole.;The boy is carrying his school books.
+contradiction;A boy wearing blue short standing on the traffic signal pole.;The boy is wearing red shorts inside his classroom.
+entailment;A boy wearing blue short standing on the traffic signal pole.;The boy is wearing an article of clothing.
+contradiction;A young kid is skateboarding at a skate park.;The boy is afraid of skating.
+neutral;A young kid is skateboarding at a skate park.;There's a kid skateboarding down the road.
+entailment;A young kid is skateboarding at a skate park.;The boy is playing at the skate park.
+entailment;Three people sitting on the curb in an Asian city.;A group of people are outside sitting.
+neutral;Three people sitting on the curb in an Asian city.;A group of people are talking about the weather.
+contradiction;Three people sitting on the curb in an Asian city.;A group of dogs are riding in a car.
+neutral;Lots of people are sitting on blankets and lawn chairs in the grass.;There are lots of people sitting on a blanket to watch a movie.
+entailment;Lots of people are sitting on blankets and lawn chairs in the grass.;There are lots of people sitting on blankets.
+contradiction;Lots of people are sitting on blankets and lawn chairs in the grass.;There is one person sitting on a blanket.
+neutral;Young girl playing with streamers.;The girl is outside.
+entailment;Young girl playing with streamers.;A girl playing.
+contradiction;Young girl playing with streamers.;There is a boy playing basketball.
+entailment;The girl is twirling long, colorful streamers.;The girl is twirling streamers.
+contradiction;The girl is twirling long, colorful streamers.;The boy is twilring streamers.
+neutral;The girl is twirling long, colorful streamers.;The girl is twirling rainbow streamers.
+contradiction;The girl in the pink shirt is twirling a ribbon.;A boy playing with a ribbon
+neutral;The girl in the pink shirt is twirling a ribbon.;A girl practicing
+entailment;The girl in the pink shirt is twirling a ribbon.;A girl playing with a ribbon
+neutral;a girl wearing a bright pink top is spinning a colorful ribbon around her body.;A girl puts on a show for her family.
+entailment;a girl wearing a bright pink top is spinning a colorful ribbon around her body.;A girl in a pink top spins a ribbon.
+contradiction;a girl wearing a bright pink top is spinning a colorful ribbon around her body.;A boy in a blue shirt spins.
+contradiction;A little girl in a pink shirt and a jean skirt is playing with a ribbon wand outside.;The girl has a red shirt.
+entailment;A little girl in a pink shirt and a jean skirt is playing with a ribbon wand outside.;A girl has a pink shirt.
+neutral;A little girl in a pink shirt and a jean skirt is playing with a ribbon wand outside.;The girl is blonde.
+contradiction;A skier flies through the air.;a snowboarder is watching the sights
+neutral;A skier flies through the air.;a skier is out of control tumbling through the air
+entailment;A skier flies through the air.;a skier has left the ground and is airborne
+contradiction;A man in skiing gear is airborne.;A naked man is airborne.
+entailment;A man in skiing gear is airborne.;A man in skiing gear.
+neutral;A man in skiing gear is airborne.;A man is jumping while on his skis.
+entailment;A skier is airborne in front of some trees.;Someone is skiing.
+neutral;A skier is airborne in front of some trees.;The skier is near the end of his run.
+contradiction;A skier is airborne in front of some trees.;Two men play basketball.
+contradiction;A skier in colorful clothes midair in a wintry scene.;The skier is sitting on the bench.
+neutral;A skier in colorful clothes midair in a wintry scene.;The skier will sky to the lodge to get hot chocolate.
+entailment;A skier in colorful clothes midair in a wintry scene.;The skier is dressed warm for the winter conditions.
+neutral;A woman sitting on concrete reading a book barefoot.;A young woman sitting while reading.
+entailment;A woman sitting on concrete reading a book barefoot.;A person reading.
+contradiction;A woman sitting on concrete reading a book barefoot.;A little boy playing on a jungle gym.
+neutral;A man is skiing in midair.;A man is yelling out in midair.
+entailment;A man is skiing in midair.;A man is outdoors.
+contradiction;A man is skiing in midair.;A man is parachuting in midair.
+neutral;A black dog and a brown dog close together.;Two dogs playing together.
+entailment;A black dog and a brown dog close together.;Two dogs.
+contradiction;A black dog and a brown dog close together.;Two cats sleeping.
+entailment;One brown and one mostly black dog are either playing or fighting.;two dogs were together
+neutral;One brown and one mostly black dog are either playing or fighting.;the dogs are playing with a toy
+contradiction;One brown and one mostly black dog are either playing or fighting.;one dog sat alone
+entailment;Two dogs, face to face, on a dirt road.;Two dogs are facing each other.
+contradiction;Two dogs, face to face, on a dirt road.;Two dogs are chasing a cat.
+neutral;Two dogs, face to face, on a dirt road.;Two dogs are fighting.
+entailment;A brown dog and a black dog on a dirt path.;Two dogs are outdoors.
+neutral;A brown dog and a black dog on a dirt path.;A human is walking two dogs.
+contradiction;A brown dog and a black dog on a dirt path.;The two dogs are walking down a city street.
+entailment;A woman playing on an oversize checkers board.;A woman plays on a giant black-and-red checkerboard.
+contradiction;A woman playing on an oversize checkers board.;A kid plays speed checkers with his buddy on a tiny magnetic checkerboard.
+neutral;A woman playing on an oversize checkers board.;A woman musician plays her guitar while strolling along a giant black-and-red checkerboard floor.
+contradiction;A woman plays an extra large game of checkers.;A woman plays an extra large game of chess.
+entailment;A woman plays an extra large game of checkers.;A woman is playing a board game.
+neutral;A woman plays an extra large game of checkers.;The woman won a contest to have a chance to play a blown up in size game of checker.s
+entailment;A person is playing a large version of checkers on a deck overlooking water.;Someone is playing a game outdoors.
+contradiction;A person is playing a large version of checkers on a deck overlooking water.;A person is standing watching boats with binoculars.
+neutral;A person is playing a large version of checkers on a deck overlooking water.;A person wearing a baseball cap is playing a large version of checkers on a deck overlooking water
+contradiction;Someone placing pieces on a large checkerboard.;A man is dealing cards.
+neutral;Someone placing pieces on a large checkerboard.;The winner is setting up the next game of checkers.
+entailment;Someone placing pieces on a large checkerboard.;There is a checkers game.
+neutral;The little boy is looking at a train set.;train set is excited game for kids
+contradiction;The little boy is looking at a train set.;the boy is playing with it
+entailment;The little boy is looking at a train set.;the boy is thinking pf train set
+contradiction;A blond woman practices belly dancing in outfit.;A woman is laying in the sun.
+neutral;A blond woman practices belly dancing in outfit.;A woman is dancing for an audience for money.
+entailment;A blond woman practices belly dancing in outfit.;A woman is wearing clothes and moving around.
+entailment;A lady bowling, with her right leg pointing towards her back.;A lady bowling with leg pointing back.
+contradiction;A lady bowling, with her right leg pointing towards her back.;A lady bowling drinks a soda.
+entailment;A lady bowling, with her right leg pointing towards her back.;A lady bowling with one of her legs pointing back.
+entailment;A belly dancer wearing a red and gold costume stands with her arms above her head.;A dancer poses.
+contradiction;A belly dancer wearing a red and gold costume stands with her arms above her head.;A gorilla dressed as a belly dancer overturns a table.
+neutral;A belly dancer wearing a red and gold costume stands with her arms above her head.;A belly dancer wearing a red and gold costume stands in a pose before dancing.
+entailment;A blond woman in a decorated matching red skirt and top is standing in a field.;There is a women outdoors
+neutral;A blond woman in a decorated matching red skirt and top is standing in a field.;There is a women outdoors playing sports
+contradiction;A blond woman in a decorated matching red skirt and top is standing in a field.;There is a women outdoors running outdoors.
+contradiction;A dancer in a red costume has her hands raised up to form a shape.;A basketball player makes a shot.
+neutral;A dancer in a red costume has her hands raised up to form a shape.;A dancer performs onstage for a crowd.
+entailment;A dancer in a red costume has her hands raised up to form a shape.;A dancer is in a posed position.
+neutral;A woman dressed in a red costume belly dances among spectators.;A woman belly dances for her job.
+entailment;A woman dressed in a red costume belly dances among spectators.;A woman belly dances.
+contradiction;A woman dressed in a red costume belly dances among spectators.;A man belly dances.
+neutral;A youngster plays with a toy.;toys played some person
+entailment;A youngster plays with a toy.;youths plays with toys
+contradiction;A youngster plays with a toy.;person walking on beach
+neutral;A person with a green hat laying down on the ground.;A person is sleep.
+contradiction;A person with a green hat laying down on the ground.;A person is wearing a blue hat.
+entailment;A person with a green hat laying down on the ground.;A person is wearing a green hat.
+contradiction;A boy smiles while he loads up his toy with fake bullets.;A boy plays with his toy car.
+entailment;A boy smiles while he loads up his toy with fake bullets.;A boy plays with a toy gun.
+neutral;A boy smiles while he loads up his toy with fake bullets.;A boy plays cops and robbers with his friends.
+entailment;A smiling young boy loads a foam gun with darts.;A smiling young boy playing with a toy gun.
+contradiction;A smiling young boy loads a foam gun with darts.;A smiling young boy loads a pellet gun.
+neutral;A smiling young boy loads a foam gun with darts.;A smiling young boy playing with his new birthday present.
+entailment;A young man with a black shirt and gray pants smiling looking down as he plays with a yellow and blue toy in the dark.;A young man plays with a toy in the dark.
+contradiction;A young man with a black shirt and gray pants smiling looking down as he plays with a yellow and blue toy in the dark.;A young man plays his violin at the school play.
+neutral;A young man with a black shirt and gray pants smiling looking down as he plays with a yellow and blue toy in the dark.;A young black man plays with a toy in the dark.
+entailment;A little boy in a black t-shirt plays with a toy NERF gun.;A little boy in black plays with a toy gun.
+contradiction;A little boy in a black t-shirt plays with a toy NERF gun.;a little boy in red plays with a dog.
+neutral;A little boy in a black t-shirt plays with a toy NERF gun.;A little boy is playing with his present.
+neutral;A group of people both adult and children stand around a bunch of sheep.;A bunch of parents and their children look at some shorn sheep
+entailment;A group of people both adult and children stand around a bunch of sheep.;A crowd of people stand around some farm animals
+contradiction;A group of people both adult and children stand around a bunch of sheep.;A lone teenager tends to a few sheep
+neutral;A group of old and young people standing in a dirt field with a herd of sheep against a deep blue sky.;A group of old and young people standing in a dirt field .
+contradiction;A group of old and young people standing in a dirt field with a herd of sheep against a deep blue sky.;A group of people running in the snow.
+entailment;A group of old and young people standing in a dirt field with a herd of sheep against a deep blue sky.;A group of old and young people standing in a dirt field with a herd of sheep .
+entailment;Three kids and there parents tending to their pack of sheep.;The kids and the parents care for their herd of sheep.
+contradiction;Three kids and there parents tending to their pack of sheep.;The kids are walking the dogs.
+neutral;Three kids and there parents tending to their pack of sheep.;The kids are learning from the parents.
+neutral;Four children and a woman are tending sheep in an arid location.;The family works the sheep farm in Australia.
+contradiction;Four children and a woman are tending sheep in an arid location.;A man pets a horse.
+entailment;Four children and a woman are tending sheep in an arid location.;Five people tend sheep.
+entailment;There are a group of people around a heard of sheep.;a group of people around sheep
+neutral;There are a group of people around a heard of sheep.;a group of older people around sheep
+contradiction;There are a group of people around a heard of sheep.;one person around sheep
+contradiction;A man in a beret looks out the window of a vehicle.;The man isn't wearing a hat
+neutral;A man in a beret looks out the window of a vehicle.;The man is a soldier
+entailment;A man in a beret looks out the window of a vehicle.;A man is wearing a beret
+entailment;A boy at a gun range aims and shoots.;A lad fires a weapon.
+contradiction;A boy at a gun range aims and shoots.;Two men shoot a tyrant in the head with precision and accuracy.
+neutral;A boy at a gun range aims and shoots.;A boy aims at a target.
+contradiction;A conductor of a train leans out of a window and looks to the right, while another man inside of the carriage looks towards some gauges.;The conductor of a train is seated comfortable while a man in a carriage steps off the train.
+contradiction;A conductor of a train leans out of a window and looks to the right, while another man inside of the carriage looks towards some gauges.;People watch a train go by.
+neutral;A conductor of a train leans out of a window and looks to the right, while another man inside of the carriage looks towards some gauges.;The conductor is making sure the train is on the right track.

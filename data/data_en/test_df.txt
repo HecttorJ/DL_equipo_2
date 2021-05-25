@@ -1,0 +1,251 @@
+similarity;sentence1;sentence2
+entailment;A conductor of a train leans out of a window and looks to the right, while another man inside of the carriage looks towards some gauges.;There are two people on a train looking at different things.
+entailment;A conductor of a train leans out of a window and looks to the right, while another man inside of the carriage looks towards some gauges.;People are on a train.
+entailment;A conductor of a train leans out of a window and looks to the right, while another man inside of the carriage looks towards some gauges.;People run a train.
+contradiction;a man with a conductors hat sticks his head out the window and leans on the windowsill of the train.;A dog sticks his head out the window of a car.
+neutral;a man with a conductors hat sticks his head out the window and leans on the windowsill of the train.;A man sticks his head out of the window.
+entailment;a man with a conductors hat sticks his head out the window and leans on the windowsill of the train.;A man with a hat is on a train.
+entailment;A train conductor looking out the window of a black train while the worker looks at the gauges.;The conductor is looking outside.
+neutral;A train conductor looking out the window of a black train while the worker looks at the gauges.;The conductor is looking out the window at the train.
+contradiction;A train conductor looking out the window of a black train while the worker looks at the gauges.;The conductor is looking at a manual.
+contradiction;Man hanging out of the window of a train wearing a black jacket and hat.;The man is the copilot of the airplane.
+entailment;Man hanging out of the window of a train wearing a black jacket and hat.;The man is on a train.
+neutral;Man hanging out of the window of a train wearing a black jacket and hat.;The man is the train conductor.
+entailment;A little boy hits a baseball while his family watches;The little boy makes his family proud.
+contradiction;A little boy hits a baseball while his family watches;A boy scores a goal playing soccer with his sister.
+neutral;A little boy hits a baseball while his family watches;A little boy hits a home run as his mom and dad cheer!
+contradiction;Boy with black shirt and red batting helmet swinging bat at ball on ball field.;the woman grades a paper
+neutral;Boy with black shirt and red batting helmet swinging bat at ball on ball field.;the boy is trying out for the baseball team
+entailment;Boy with black shirt and red batting helmet swinging bat at ball on ball field.;The boy is swinging a bat
+contradiction;A little boy batting with a red helmet on.;boy is reading story book in library
+entailment;A little boy batting with a red helmet on.;a little boy batting wearing red helmet
+neutral;A little boy batting with a red helmet on.;a little school boy from California is batting
+neutral;A boy in a red helmet hits a ball with a bat.;The boy is playing baseball.
+contradiction;A boy in a red helmet hits a ball with a bat.;The boy is playing volleyball.
+entailment;A boy in a red helmet hits a ball with a bat.;The boy is playing a game.
+entailment;A woman in an SUV looks to be crying as a fatherly figure places his hand on her cheek for reassurance.;The man is reassuring the crying woman.
+neutral;A woman in an SUV looks to be crying as a fatherly figure places his hand on her cheek for reassurance.;The woman just got into a car accident.
+contradiction;A woman in an SUV looks to be crying as a fatherly figure places his hand on her cheek for reassurance.;The woman is playing in the park with her children.
+neutral;A young lady being comforted by a man after she has seen something sad and it has made her cry.;the lady is his wife
+neutral;A young lady being comforted by a man after she has seen something sad and it has made her cry.;A young lady is crying because she saw a dog get hit by a car.
+entailment;A young lady being comforted by a man after she has seen something sad and it has made her cry.;a lady is crying
+contradiction;A young lady being comforted by a man after she has seen something sad and it has made her cry.;The woman is laughing.
+entailment;A young lady being comforted by a man after she has seen something sad and it has made her cry.;a lady is comforted
+contradiction;A young lady being comforted by a man after she has seen something sad and it has made her cry.;The lady is happy.
+neutral;A young lady being comforted by a man after she has seen something sad and it has made her cry.;The woman is at a funeral.
+contradiction;A young lady being comforted by a man after she has seen something sad and it has made her cry.;the lady is asleep at work
+entailment;A young lady being comforted by a man after she has seen something sad and it has made her cry.;A woman is crying.
+entailment;A young lady being comforted by a man after she has seen something sad and it has made her cry.;The woman has tears in her eyes.
+entailment;A young lady being comforted by a man after she has seen something sad and it has made her cry.;A young lady is crying.
+neutral;A young lady being comforted by a man after she has seen something sad and it has made her cry.;The man is comforting his wife.
+contradiction;A young lady being comforted by a man after she has seen something sad and it has made her cry.;A young lady didn't see anything at all.
+neutral;A young lady being comforted by a man after she has seen something sad and it has made her cry.;a lady just found out her dog died
+contradiction;A young lady being comforted by a man after she has seen something sad and it has made her cry.;a lady is alone and happy while watching a movie
+entailment;A man in a blue plaid shirt is comforting a crying woman in a black truck.;A man comforts a crying woman.
+neutral;A man in a blue plaid shirt is comforting a crying woman in a black truck.;A man comforts his girlfriend.
+contradiction;A man in a blue plaid shirt is comforting a crying woman in a black truck.;A woman comforts a crying man.
+entailment;A man in a blue and white shirt shows concern for a girl in a suv.;Humans are interacting
+contradiction;A man in a blue and white shirt shows concern for a girl in a suv.;A man running on the ground
+neutral;A man in a blue and white shirt shows concern for a girl in a suv.;A man shows something to a woman
+contradiction;An older man sitting outside in the sun watching something under his umbrella.;The man is indoors.
+neutral;An older man sitting outside in the sun watching something under his umbrella.;The man is in the park.
+entailment;An older man sitting outside in the sun watching something under his umbrella.;An older man is outside.
+entailment;four men are on stage performing music.;The men are making noise.
+neutral;four men are on stage performing music.;The men are a barbershop quartet.
+contradiction;four men are on stage performing music.;The men are silently praying in the church.
+contradiction;Older couple is covered in shadows by a bridge.;lion eats bird
+contradiction;Older couple is covered in shadows by a bridge.;couple near big building
+entailment;Older couple is covered in shadows by a bridge.;couple covered in shadows
+neutral;A man and woman standing under a covered patio with the sun beaming through the trellis slats.;Two people are standing in the sun on their newly constructed patio.
+entailment;A man and woman standing under a covered patio with the sun beaming through the trellis slats.;Two people are standing.
+contradiction;A man and woman standing under a covered patio with the sun beaming through the trellis slats.;Two people are dancing in the snow.
+neutral;Two elderly people in a dimly lit area.;Two elderly people are in a dark alley.
+contradiction;Two elderly people in a dimly lit area.;Two elderly people are hit with spotlights.
+entailment;Two elderly people in a dimly lit area.;Elderly people are in a dark area.
+entailment;An older man wearing a vest looking into a dumpster.;An old man is looking into a dumpster.
+neutral;An older man wearing a vest looking into a dumpster.;The old man accidentally dropped his wallet in the dumpster.
+contradiction;An older man wearing a vest looking into a dumpster.;The old man is sitting at a table reading a book.
+entailment;Young boy holding a baby in a run-down area.;The boy has the baby.
+contradiction;Young boy holding a baby in a run-down area.;The boy is holding a dog.
+neutral;Young boy holding a baby in a run-down area.;The boy is holding his sibling.
+neutral;Two young adults at a rodeo, one is helping the other to fix an injury to his arm after a brief ride.;One adult is hurt because of the ride they took.
+contradiction;Two young adults at a rodeo, one is helping the other to fix an injury to his arm after a brief ride.;Two young adults are playing basketball.
+entailment;Two young adults at a rodeo, one is helping the other to fix an injury to his arm after a brief ride.;Two young adults are at a rodeo.
+neutral;Two young adults at a rodeo, one is helping the other to fix an injury to his arm after a brief ride.;One is trying to fix his arm injury so they can co on another ride
+neutral;Two young adults at a rodeo, one is helping the other to fix an injury to his arm after a brief ride.;A young adult helps another after he is injured by a bull at a rodeo.
+contradiction;Two young adults at a rodeo, one is helping the other to fix an injury to his arm after a brief ride.;a rodeo is a safe place for all occupants
+neutral;Two young adults at a rodeo, one is helping the other to fix an injury to his arm after a brief ride.;the one mending the arm is a trained medic
+entailment;Two young adults at a rodeo, one is helping the other to fix an injury to his arm after a brief ride.;Two young adults are at a horse event.
+entailment;Two young adults at a rodeo, one is helping the other to fix an injury to his arm after a brief ride.;there are people at the rodeo
+neutral;Two young adults at a rodeo, one is helping the other to fix an injury to his arm after a brief ride.;Two young adults want to ride horses.
+contradiction;Two young adults at a rodeo, one is helping the other to fix an injury to his arm after a brief ride.;Two young adults are at a waterpark
+contradiction;Two young adults at a rodeo, one is helping the other to fix an injury to his arm after a brief ride.;A bull escapes from the rodeo.
+entailment;Two young adults at a rodeo, one is helping the other to fix an injury to his arm after a brief ride.;A young adult helps another after an injury at a rodeo.
+entailment;Two young adults at a rodeo, one is helping the other to fix an injury to his arm after a brief ride.;Two aduts are at a rodeo.
+contradiction;Two young adults at a rodeo, one is helping the other to fix an injury to his arm after a brief ride.;The bull is jumping into the crowd at a rodeo.
+contradiction;A cowboy in a rodeo puts a bandage on his forearm, getting ready for his ride.;a cowboy is going to milk the cows
+entailment;A cowboy in a rodeo puts a bandage on his forearm, getting ready for his ride.;a cowboy has a bandage on his arm
+neutral;A cowboy in a rodeo puts a bandage on his forearm, getting ready for his ride.;a cowboy hurt his arm shooting a gun
+contradiction;A young woman is drilling holes in a rock with an impact drill;Daffy Duck is a pasta chef.
+neutral;A young woman is drilling holes in a rock with an impact drill;The rock is hard.
+entailment;A young woman is drilling holes in a rock with an impact drill;A woman drills rock.
+neutral;A young boy holds a small, dirty girl on his lap while wrapping her in his jacket.;The little girl is the boys sister.
+entailment;A young boy holds a small, dirty girl on his lap while wrapping her in his jacket.;The little boy is taking care of the young girl.
+contradiction;A young boy holds a small, dirty girl on his lap while wrapping her in his jacket.;The little boy is giving the little girl a bubble bath.
+entailment;Two small children in poor conditions trying to survive the elements.;The childreen are poor.
+contradiction;Two small children in poor conditions trying to survive the elements.;The children are wealthy.
+neutral;Two small children in poor conditions trying to survive the elements.;The children are siblings.
+neutral;A young boy holds an infant which appears to be in distraught.;A young boy holds a crying baby that needs a diaper change.
+entailment;A young boy holds an infant which appears to be in distraught.;A young boy holds a crying baby.
+contradiction;A young boy holds an infant which appears to be in distraught.;A young boy sits next to a crying baby.
+contradiction;A brother holding his younger brother outside in cold air.;There is a brother and sister pair.
+entailment;A brother holding his younger brother outside in cold air.;There are two brothers.
+neutral;A brother holding his younger brother outside in cold air.;It is winter.
+neutral;An old man wit a straw hat and umbrella is smiling while sitting and watching something in the distance.;The hat is dirty.
+contradiction;An old man wit a straw hat and umbrella is smiling while sitting and watching something in the distance.;The hat is made out of clay.
+entailment;An old man wit a straw hat and umbrella is smiling while sitting and watching something in the distance.;There is a straw hat.
+entailment;Three cheerleaders are rooting for their team.;The cheerleaders show their team support.
+contradiction;Three cheerleaders are rooting for their team.;The cheerleaders are taking a break.
+neutral;Three cheerleaders are rooting for their team.;One of the cheerleaders is male.
+contradiction;A young boy wearing a red shirt with yellow writing on it and a red sports cap is squatted in shallow water and touching a yellow pail filled with sand.;The little kid with a red shirt and yellow letters, stood on a foot stool to reach both his hands into the dirty water in the sink.
+neutral;A young boy wearing a red shirt with yellow writing on it and a red sports cap is squatted in shallow water and touching a yellow pail filled with sand.;Trying to get the attention of his parents, the little red-shirted imp continued to dig handfuls of sand out of the yellow bucket and hurl them at the people lying on the beach.
+entailment;A young boy wearing a red shirt with yellow writing on it and a red sports cap is squatted in shallow water and touching a yellow pail filled with sand.;The young boy in the red shirt had his finger touching the sand filled yellow pail.
+neutral;A bride and her groom embracing.;The two people just got married.
+contradiction;A bride and her groom embracing.;The two people are swimming.
+entailment;A bride and her groom embracing.;The bride and groom holding eachother.
+entailment;Four snowsuit clad children climb up a snowy hillside.;Four children are outside in the snow.
+contradiction;Four snowsuit clad children climb up a snowy hillside.;It is summertime and warm outside.
+neutral;Four snowsuit clad children climb up a snowy hillside.;The children are going sledding.
+contradiction;Four children climbing up a snow covered hill.;Four children climb up an Icy palace in the Norwegian countryside
+neutral;Four children climbing up a snow covered hill.;Four children are climbing in the snow of a covered hill
+entailment;Four children climbing up a snow covered hill.;Four children are climbing on a snowy hill
+neutral;Four kids climb a snowy hill, one struggles.;kids are climbing a hill covered with snow while on school vacation
+entailment;Four kids climb a snowy hill, one struggles.;kids are climbing a hill covered with snow
+contradiction;Four kids climb a snowy hill, one struggles.;kids playing in the sand
+neutral;A woman wearing a white gown and a man wearing a gray suit embracing.;A bride is hugging her groom.
+entailment;A woman wearing a white gown and a man wearing a gray suit embracing.;A woman is wearing a white gown.
+contradiction;A woman wearing a white gown and a man wearing a gray suit embracing.;A dog is eating.
+neutral;A bride and groom stand together in front of a wooden fence.;Newlyweds have their photo taken.
+entailment;A bride and groom stand together in front of a wooden fence.;A man and woman are outside.
+contradiction;A bride and groom stand together in front of a wooden fence.;The bride is walking down the aisle to greet her groom.
+neutral;A bride and groom are standing in front of a fence.;The bride has blonde hair.
+contradiction;A bride and groom are standing in front of a fence.;The bride and groom are dancing in the hotel.
+entailment;A bride and groom are standing in front of a fence.;A bride and groom stand near a fence.
+neutral;A man crosses a busy city street.;A man almost gets hit by a car.
+contradiction;A man crosses a busy city street.;A man runs across a road without paying attention to traffic.
+entailment;A man crosses a busy city street.;A man makes his way through traffic, no foot.
+neutral;A man in a white shirt and tie walking across the street.;A man wearing a uniform walks through a busy street.
+entailment;A man in a white shirt and tie walking across the street.;A man walks outside.
+contradiction;A man in a white shirt and tie walking across the street.;A woman walks across the street.
+contradiction;A man walks across a road with his tie flipped over his shoulder.;A woman walks across a road with her tie flipped over his shoulder.
+neutral;A man walks across a road with his tie flipped over his shoulder.;A man walks across a busy road with his tie flipped over his shoulder.
+entailment;A man walks across a road with his tie flipped over his shoulder.;A man walks across a street with his tie blowing in the wind
+contradiction;An older man in a nice dress shirt with a tie over his shoulder, walking across a street in downtown.;A man is sitting in a cafe down town.
+neutral;An older man in a nice dress shirt with a tie over his shoulder, walking across a street in downtown.;A man is walking across a street downtown to get to his favorite shop.
+entailment;An older man in a nice dress shirt with a tie over his shoulder, walking across a street in downtown.;A man is walking across a street downtown.
+neutral;Two women with colorful hats sit in a field.;The women are friends.
+entailment;Two women with colorful hats sit in a field.;Two women are sitting.
+contradiction;Two women with colorful hats sit in a field.;The women are standing.
+entailment;A man in a suit is holding a frying pan.;There is a man cooking.
+neutral;A man in a suit is holding a frying pan.;The man is cooking before work.
+contradiction;A man in a suit is holding a frying pan.;The man is juggling.
+neutral;A well dressed man holds a skillet in public.;The man is cooking on the street.
+entailment;A well dressed man holds a skillet in public.;A man dresses well.
+contradiction;A well dressed man holds a skillet in public.;The man is getting on a plane.
+entailment;A man in a gray suit and purple tie is flipping a pancake in the middle of a sidewalk.;The person is flipping food.
+neutral;A man in a gray suit and purple tie is flipping a pancake in the middle of a sidewalk.;The person works for IHOP.
+contradiction;A man in a gray suit and purple tie is flipping a pancake in the middle of a sidewalk.;The person is wearing a yellow suit.
+neutral;A white man with black hair dressed nicely in gray dress pants, blazer and purple tie stands on the street in front of a garage flipping a pancake which is captured in midair.;A pancake seller is flipping pancakes for customers.
+neutral;A white man with black hair dressed nicely in gray dress pants, blazer and purple tie stands on the street in front of a garage flipping a pancake which is captured in midair.;The man hasn't flipped pancakes for years, and is surprised he can still do it.
+contradiction;A white man with black hair dressed nicely in gray dress pants, blazer and purple tie stands on the street in front of a garage flipping a pancake which is captured in midair.;The man is in his kitchen, frying eggs on the stove.
+neutral;A white man with black hair dressed nicely in gray dress pants, blazer and purple tie stands on the street in front of a garage flipping a pancake which is captured in midair.;A man is cooking breakfast for others in his neighborhood.
+neutral;A white man with black hair dressed nicely in gray dress pants, blazer and purple tie stands on the street in front of a garage flipping a pancake which is captured in midair.;The man is going to work.
+contradiction;A white man with black hair dressed nicely in gray dress pants, blazer and purple tie stands on the street in front of a garage flipping a pancake which is captured in midair.;a guy is painting a house
+entailment;A white man with black hair dressed nicely in gray dress pants, blazer and purple tie stands on the street in front of a garage flipping a pancake which is captured in midair.;A man is flipping a pancake.
+entailment;A white man with black hair dressed nicely in gray dress pants, blazer and purple tie stands on the street in front of a garage flipping a pancake which is captured in midair.;A black haired male stands on the street flipping a pankcake.
+entailment;A white man with black hair dressed nicely in gray dress pants, blazer and purple tie stands on the street in front of a garage flipping a pancake which is captured in midair.;The man is dressed nicely.
+contradiction;A white man with black hair dressed nicely in gray dress pants, blazer and purple tie stands on the street in front of a garage flipping a pancake which is captured in midair.;The man is pouring pancake batter all over his naked body.
+neutral;A white man with black hair dressed nicely in gray dress pants, blazer and purple tie stands on the street in front of a garage flipping a pancake which is captured in midair.;a guy is cooking pancakes for his family
+entailment;A white man with black hair dressed nicely in gray dress pants, blazer and purple tie stands on the street in front of a garage flipping a pancake which is captured in midair.;A man is cooking pancakes in his driveway.
+contradiction;A white man with black hair dressed nicely in gray dress pants, blazer and purple tie stands on the street in front of a garage flipping a pancake which is captured in midair.;A man is cooking in his kitchen while his kids watch.
+entailment;A white man with black hair dressed nicely in gray dress pants, blazer and purple tie stands on the street in front of a garage flipping a pancake which is captured in midair.;a guy is cooking pancakes by his garage
+contradiction;A white man with black hair dressed nicely in gray dress pants, blazer and purple tie stands on the street in front of a garage flipping a pancake which is captured in midair.;THe dark haired man is chasing lions off his lawn.
+entailment;This is a well-dressed dark-haired gentleman wearing a gray suit jacket, gray trousers, black sweater and lavender tie with a mustache and goatee holding a frying pan, standing on the sidewalk in front of a roll-open garage-type door.;A well dressed man is standing in front of a garage door.
+neutral;This is a well-dressed dark-haired gentleman wearing a gray suit jacket, gray trousers, black sweater and lavender tie with a mustache and goatee holding a frying pan, standing on the sidewalk in front of a roll-open garage-type door.;A man stands in front of a garage waiting for it to be open.
+contradiction;This is a well-dressed dark-haired gentleman wearing a gray suit jacket, gray trousers, black sweater and lavender tie with a mustache and goatee holding a frying pan, standing on the sidewalk in front of a roll-open garage-type door.;A man is running a marathon.
+neutral;This is a well-dressed dark-haired gentleman wearing a gray suit jacket, gray trousers, black sweater and lavender tie with a mustache and goatee holding a frying pan, standing on the sidewalk in front of a roll-open garage-type door.;The gentleman is happily standing on the sidewalk.
+contradiction;This is a well-dressed dark-haired gentleman wearing a gray suit jacket, gray trousers, black sweater and lavender tie with a mustache and goatee holding a frying pan, standing on the sidewalk in front of a roll-open garage-type door.;A woman is cooking in the kitchen.
+entailment;This is a well-dressed dark-haired gentleman wearing a gray suit jacket, gray trousers, black sweater and lavender tie with a mustache and goatee holding a frying pan, standing on the sidewalk in front of a roll-open garage-type door.;A man is holding a frying pan.
+contradiction;This is a well-dressed dark-haired gentleman wearing a gray suit jacket, gray trousers, black sweater and lavender tie with a mustache and goatee holding a frying pan, standing on the sidewalk in front of a roll-open garage-type door.;The man is at church.
+contradiction;This is a well-dressed dark-haired gentleman wearing a gray suit jacket, gray trousers, black sweater and lavender tie with a mustache and goatee holding a frying pan, standing on the sidewalk in front of a roll-open garage-type door.;This is a woman wearing a red jacket standing in front of a garage door.
+contradiction;This is a well-dressed dark-haired gentleman wearing a gray suit jacket, gray trousers, black sweater and lavender tie with a mustache and goatee holding a frying pan, standing on the sidewalk in front of a roll-open garage-type door.;A man is holding a boombox
+neutral;This is a well-dressed dark-haired gentleman wearing a gray suit jacket, gray trousers, black sweater and lavender tie with a mustache and goatee holding a frying pan, standing on the sidewalk in front of a roll-open garage-type door.;A well dressed man is looking through items at a garage sale and is buying a frying pan.
+neutral;This is a well-dressed dark-haired gentleman wearing a gray suit jacket, gray trousers, black sweater and lavender tie with a mustache and goatee holding a frying pan, standing on the sidewalk in front of a roll-open garage-type door.;A man is about to cook breakfast.
+neutral;This is a well-dressed dark-haired gentleman wearing a gray suit jacket, gray trousers, black sweater and lavender tie with a mustache and goatee holding a frying pan, standing on the sidewalk in front of a roll-open garage-type door.;A man is trying to get the attention of people in a garage.
+entailment;This is a well-dressed dark-haired gentleman wearing a gray suit jacket, gray trousers, black sweater and lavender tie with a mustache and goatee holding a frying pan, standing on the sidewalk in front of a roll-open garage-type door.;A man is standing outside.
+entailment;This is a well-dressed dark-haired gentleman wearing a gray suit jacket, gray trousers, black sweater and lavender tie with a mustache and goatee holding a frying pan, standing on the sidewalk in front of a roll-open garage-type door.;The gentleman is standing in front of a garage door.
+entailment;This is a well-dressed dark-haired gentleman wearing a gray suit jacket, gray trousers, black sweater and lavender tie with a mustache and goatee holding a frying pan, standing on the sidewalk in front of a roll-open garage-type door.;A man stands in front of a garage.
+neutral;A young man and woman interact with an elderly woman in a wheelchair.;A man and women are talking to an elderly women about life
+entailment;A young man and woman interact with an elderly woman in a wheelchair.;A man and women are talking to an elderly women
+contradiction;A young man and woman interact with an elderly woman in a wheelchair.;A man and women are not talking to an elderly women
+entailment;Two teenagers interacting with the elder population.;Some kids and old people.
+neutral;Two teenagers interacting with the elder population.;Some kids read to old people.
+contradiction;Two teenagers interacting with the elder population.;Some middle aged people sit alone.
+neutral;A man wearing a dark shirt and a girl wearing a dark tank top are standing next to an elderly lady seated in a wheelchair.;A family is spending the day together
+contradiction;A man wearing a dark shirt and a girl wearing a dark tank top are standing next to an elderly lady seated in a wheelchair.;A man is wearing a light shirt
+entailment;A man wearing a dark shirt and a girl wearing a dark tank top are standing next to an elderly lady seated in a wheelchair.;A man is wearing a dark shirt
+entailment;2 people stand up wearing black at an old persons home, while some onlookers sit in wheelchairs nearby.;Some people are sitting while others are standing
+contradiction;2 people stand up wearing black at an old persons home, while some onlookers sit in wheelchairs nearby.;At the elementary school the people were waiting for lunch
+neutral;2 people stand up wearing black at an old persons home, while some onlookers sit in wheelchairs nearby.;The people in the wheelchairs were waiting for the entertainers to being
+entailment;A heavyset man is standing next to a building.;The man is overweight.
+contradiction;A heavyset man is standing next to a building.;The man is skinny.
+neutral;A heavyset man is standing next to a building.;The man works in the building.
+neutral;A man is standing and talking to another man who is kneeling over some cables.;The man is an electrican.
+entailment;A man is standing and talking to another man who is kneeling over some cables.;The man is near the other man.
+contradiction;A man is standing and talking to another man who is kneeling over some cables.;The man is praying in the church.
+entailment;a little brown dog stands on his hind legs with a red toy in its mouth.;A dog stands with a toy in its mouth.
+contradiction;a little brown dog stands on his hind legs with a red toy in its mouth.;A dog is taking a nap.
+neutral;a little brown dog stands on his hind legs with a red toy in its mouth.;A dog stands with its favorite toy in its mouth.
+neutral;A man in a black shirt about to blow out candles on a cake, one of the candles looking like a flare.;A man in a black shirt about to blow out candles on a chocolate cake, one of the candles looking like a flare.
+entailment;A man in a black shirt about to blow out candles on a cake, one of the candles looking like a flare.;A person has a cake.
+contradiction;A man in a black shirt about to blow out candles on a cake, one of the candles looking like a flare.;A man is baking a cake for his customer at the bakery.
+entailment;Man in black prepares to celebrate his birthday by blowing out the candles on his cake.;There is a person next to a cake
+contradiction;Man in black prepares to celebrate his birthday by blowing out the candles on his cake.;A man is sleeping.
+neutral;Man in black prepares to celebrate his birthday by blowing out the candles on his cake.;A great man preparing
+contradiction;Man in black prepares to celebrate his birthday by blowing out the candles on his cake.;A man watches the sunset on the beach
+entailment;Man in black prepares to celebrate his birthday by blowing out the candles on his cake.;A man is celebrating the day of his birth.
+neutral;Man in black prepares to celebrate his birthday by blowing out the candles on his cake.;Man wearing a big birthday hat stands next to his birthday cake
+entailment;Man in black prepares to celebrate his birthday by blowing out the candles on his cake.;Man blows out cake candles
+contradiction;Man in black prepares to celebrate his birthday by blowing out the candles on his cake.;It's a woman's birthday.
+entailment;Man in black prepares to celebrate his birthday by blowing out the candles on his cake.;It's a man's birthday.
+contradiction;Man in black prepares to celebrate his birthday by blowing out the candles on his cake.;Woman blows out cake candles
+neutral;Man in black prepares to celebrate his birthday by blowing out the candles on his cake.;A man is getting ready to eat some cake.
+neutral;Man in black prepares to celebrate his birthday by blowing out the candles on his cake.;People are singing happy birthday.
+entailment;Man in black prepares to celebrate his birthday by blowing out the candles on his cake.;A person preparing
+contradiction;Man in black prepares to celebrate his birthday by blowing out the candles on his cake.;A bird is drinking old milk from a pond.
+neutral;Man in black prepares to celebrate his birthday by blowing out the candles on his cake.;Man just celebrated his birthday
+entailment;Two men are sitting at a table in front of decorated birthday cake with rosebuds, candles, and a large light.;There is a birthday cake on the table.
+contradiction;Two men are sitting at a table in front of decorated birthday cake with rosebuds, candles, and a large light.;The men are standing in the kitchen.
+neutral;Two men are sitting at a table in front of decorated birthday cake with rosebuds, candles, and a large light.;"The birthday cake says ""Happy 40th Birthday!"""
+contradiction;A cake with five regular candles and one tall, spark shooting candle is on a table in front of two men.;A set of conjoined twins celebrate their birthday in complete darkness.
+entailment;A cake with five regular candles and one tall, spark shooting candle is on a table in front of two men.;A decorated cake emits light.
+neutral;A cake with five regular candles and one tall, spark shooting candle is on a table in front of two men.;A set of twins celebrate their birthday.
+neutral;An elderly man enjoys the view under an umbrella to prevent the sun rays.;The man is tired
+contradiction;An elderly man enjoys the view under an umbrella to prevent the sun rays.;The man is angry
+entailment;An elderly man enjoys the view under an umbrella to prevent the sun rays.;A man has an umbrella
+neutral;The man has a cake decorated with indoor fireworks.;The man hopes to surprise people with the fireworks.
+entailment;The man has a cake decorated with indoor fireworks.;The man has put fireworks in a decorated cake.
+contradiction;The man has a cake decorated with indoor fireworks.;The cake was very delicious.
+entailment;A long line waits eagerly to get into a closed tent.;There is a long line at a tent
+contradiction;A long line waits eagerly to get into a closed tent.;There is nobody in line
+neutral;A long line waits eagerly to get into a closed tent.;The tent is at a concert
+contradiction;A crowd is gathered behind the fence near a blue tent.;group of people sitting beside a campfire
+entailment;A crowd is gathered behind the fence near a blue tent.;people gathered beside a blue tent
+neutral;A crowd is gathered behind the fence near a blue tent.;group of people meeting behind the fence
+neutral;A crowd of people are in front of a tent that is closed.;The media is waiting outside the medical tent for updates.
+contradiction;A crowd of people are in front of a tent that is closed.;Mice are running away from the cat.
+neutral;A crowd of people are in front of a tent that is closed.;People are waiting.
+neutral;A line of people is forming in front of a tent that appears to be closed to the public.;People standing in line waiting to enter the circus in the orange tent.
+entailment;A line of people is forming in front of a tent that appears to be closed to the public.;People are standing in line.
+contradiction;A line of people is forming in front of a tent that appears to be closed to the public.;People are sitting in a circle.
+contradiction;"a group of people, restrained by fencing, wait at the entrance to a tent; there are signs at the entrance that read' tent closed'.";Some people are getting ready to go swimming.

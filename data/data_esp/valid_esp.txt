@@ -1,0 +1,251 @@
+similitud; oración1; oración2
+implicación; Alguien que viaja de lado en una motocicleta.; Alguien viaja de lado ensillado en una motocicleta.
+contradicción; Alguien que viaja de lado en una motocicleta.; Alguien está estacionado en un automóvil en la calle
+contradicción; Alguien que viajaba de lado en una motocicleta.; El individuo se sentó en un banco en la terminal del metro.
+vinculación; Alguien que viaja de lado en una motocicleta.; Una persona está en una motocicleta.
+neutral; Alguien que viaja de lado en una motocicleta.; El conductor se está preparando para saltar de la motocicleta.
+neutral; Alguien que viaja de lado en una motocicleta.; Un niño recién está aprendiendo a conducir una motocicleta y no sabe muy bien cómo montar.
+implicación; Alguien que viaja de lado en una motocicleta.; Hay una persona en una máquina.
+neutral; Alguien viajando de lado en una motocicleta.; La persona quería lucirse ante la multitud de espectadores.
+vinculación; Alguien que viaja de lado en una motocicleta.; Una persona está en una motocicleta.
+neutral; Alguien que viaja de lado en una motocicleta.; Un hombre conduce una motocicleta de lado en el campo
+contradicción; Alguien que viaja de lado en una motocicleta.; Los pájaros en el árbol están cantando y comiendo gusanos.
+implicación; Alguien que viaja de lado en una motocicleta.; Una persona en una motocicleta está conduciendo de lado
+neutral; Alguien que viaja de lado en una motocicleta.; Un motociclista está luciendo.
+neutral; Joven parado sobre una mano frente a una audiencia.; La multitud aplaudió al joven por pararse en una mano.
+contradicción; Joven parado sobre una mano frente a una audiencia.; El joven tocaba su guitarra.
+vinculación; Joven parado en una mano frente a una audiencia.; El joven adulto se paró en una mano durante su actuación.
+contradicción; Hombre con capucha actuando frente a un grupo de espectadores.; El hombre está en casa durmiendo
+vinculación; Hombre con capucha actuando frente a un grupo de espectadores.; Un hombre está actuando
+neutral; Hombre con capucha actuando frente a un grupo de espectadores.; El hombre es pagado
+vinculación; Un hombre está por un lado levantando los pies rodeado de una multitud.; Un hombre realiza trucos para una multitud.
+contradicción; Un chico está por un lado levantando los pies rodeado de una multitud.; Un chico está practicando sus acrobacias en su sala de estar.
+neutral; Un hombre está por un lado levantando los pies rodeado de una multitud.; Un hombre está actuando en una acera de la ciudad.
+contradicción; Un hombre con sombrero gris y camiseta sin mangas con pantalones cortos negros haciendo el pino.; El hombre está leyendo un periódico mientras está sentado en su escritorio.
+neutral; Un hombre con un sombrero gris y una camiseta sin mangas con pantalones cortos negros haciendo el pino.; El hombre está actuando en el circo.
+vinculación; Un hombre con sombrero gris y camiseta sin mangas con pantalones cortos negros haciendo el pino.; El hombre tiene las manos en el suelo.
+contradicción; Una mujer con cabello rubio, lentes, collar y un vestido floral verde y azul sostiene un recipiente amarillo.; Una mujer de cabello castaño sostiene una sartén.
+neutral; una mujer con cabello rubio, lentes, collar y un vestido de flores verde y azul sostiene un recipiente amarillo.; Una mujer llega a una comida y trae un recipiente de su famoso guiso.
+vinculación; Una mujer con cabello rubio, lentes, collar y un vestido de flores verde y azul sostiene un recipiente amarillo.; Una mujer rubia con un vestido de flores sostiene un recipiente.
+neutral; Una dama sentada en el borde de un muelle leyendo un libro y escuchando música.; Una mujer está al aire libre.
+contradicción; Una dama sentada en el borde de un muelle leyendo un libro y escuchando música.; Una mujer está adentro viendo la televisión.
+vinculación; Una dama sentada en el borde de un muelle leyendo un libro y escuchando música.; Una dama está afuera leyendo y escuchando música.
+vinculación; Un hombre va a conseguir un libro autografiado.; El caballero ofreció su libro para un autógrafo
+contradicción; Un hombre va a obtener un libro autografiado.; El hombre estaba comprando pañales en el Costco local.
+neutral; Un hombre va a conseguir un libro autografiado.; El hombre quería que el famoso autor firmara su libro
+contradicción; Un hombre con barba y una mujer con gafas de sol están parados frente a una licorería.; Los niños están en la escuela.
+vinculación; Un hombre con barba y una mujer con gafas de sol están parados frente a una licorería.; El hombre y la mujer están de pie.
+neutral; Un hombre con barba y una mujer con gafas de sol están parados frente a una licorería.; El hombre y la mujer están comprando cerveza.
+vinculación; Un hombre y una mujer parados en un camino de un solo sentido frente a un edificio de estuco rojo.; Dos personas parados en una calle junto a un edificio.
+contradicción; Un hombre y una mujer parados en un camino de un solo sentido frente a un edificio de estuco rojo.; Un hombre y una mujer parados en la acera fuera de la estación de metro.
+neutral; Un hombre y una mujer están parados en una calle de un solo sentido frente a un edificio de estuco rojo.; Una pareja casada está parada en la calle fuera de su casa de campo.
+neutral; "Dos personas miran hacia la cámara mientras cruzan la calle frente a un edificio rojo con un letrero que dice," "Royal". ""; Dos hombres cruzan una calle.
+contradicción; "Dos personas miran hacia la cámara mientras cruzan la calle frente a un edificio rojo con un letrero que dice," "Real". ""; Dos hermanas se relajan junto a una piscina.
+vinculación; "Dos personas miran hacia la cámara mientras cruzan la calle frente a un edificio rojo con un letrero que dice," "Real". ""; Un edificio rojo tiene un letrero.
+neutral; Un hombre con una camisa a rayas azules y jeans junto con una mujer con una camisa marrón caminando por la calle.; Un hombre y su hermana cruzan la calle para encontrarse con sus padres.
+contradicción; Un hombre con una camisa a rayas azules y jeans junto con una mujer con una camisa marrón caminando por la calle.; Un hombre con una camisa a rayas y una mujer con una camisa de lunares cruzan la calle.
+vinculación; Un hombre con una camisa a rayas azules y jeans junto con una mujer con una camisa marrón que cruzan la calle.; Dos personas están caminando por la calle.
+vinculación; Dos chicos y dos chicas están jugando un juego de casino.; La gente está jugando un juego.
+contradicción; Dos chicos y dos chicas están jugando un juego de casino.; Un chico y veinte chicas están disparando armas.
+neutral; Dos chicos y dos chicas están jugando un juego de casino.; Dos chicos y dos chicas están en una cita doble.
+contradicción; Un hombre y una mujer miran a su izquierda cerca de una licorería.; Un hombre y una mujer durmiendo en su cama
+vinculación; Un hombre y una mujer miran a su izquierda cerca de una licorería.; Un hombre y una mujer cerca de una licorería.
+neutral; Un hombre y una mujer miran a su izquierda cerca de una licorería.; Marido y mujer cerca de una licorería
+neutral; Un hombre vestido de pirata se para junto a un hombre que toca un saxofón y un hombre que toca un acordeón mientras los espectadores ven.; Los hombres son un acto de comedia local en el nuevo club de comedia.
+vinculación; Un hombre vestido de pirata se para junto a un hombre que toca un saxofón y un hombre que toca un acordeón mientras los espectadores miran.; Hay tres hombres en esta imagen
+contradicción; Un hombre vestido de pirata se para junto a un hombre que toca un saxofón y un hombre que toca un acordeón mientras los espectadores miran.; Los hombres son mejores amigos que intentan establecer una apuesta de quién es mejor nadando.
+neutral; Un saxofonista vestido con una sudadera azul y un acordeonista entretienen a la gente en la calle, incluido un pirata.; Un saxofonista juega por dinero en la calle
+vinculación; Un saxofonista vestido con una sudadera azul y un acordeonista entretienen a la gente en la calle, incluido un pirata.; Un saxofonista entretiene a la gente
+contradicción; Un saxofonista vestido con una sudadera azul y un acordeonista entretienen a la gente en la calle, incluido un pirata.; Un baterista toca en la calle
+vinculación; Hombre vestido de pirata escucha con una multitud a una banda tocando.; Hombre vestido de pirata
+neutral; un hombre vestido como un pirata escucha con una multitud tocar una banda; los piratas organizan un concierto
+contradicción; un hombre vestido de pirata escucha con una multitud tocar una banda; la niña llora fuerte
+contradicción; Un grupo ecléctico de músicos y actores actúan para un grupo de turistas.; Un mono se come un plátano
+neutral; Un grupo ecléctico de músicos y actores actúan para un grupo de turistas.; Los músicos y actores están improvisando.
+vinculación; Un grupo ecléctico de músicos y actores actúan para un grupo de turistas.; Turistas están viendo una actuación
+neutral; Músicos tocando para una multitud de personas en la calle.; La calle es larga.
+vinculación; Músicos tocando para una multitud de personas en la calle.; Hay gente.
+contradicción; Músicos tocando para una multitud de gente en la calle.; La calle no tiene gente.
+contradicción; Una mujer con un paraguas siguiendo un automóvil en una valla publicitaria.; Un hombre está en una valla publicitaria.
+neutral; Una mujer con un paraguas siguiendo un automóvil en una valla publicitaria.; Una mujer está en un anuncio.
+vinculación; Una mujer con un paraguas siguiendo un automóvil en una valla publicitaria.; Una mujer está en una valla publicitaria.
+vinculación; Un joven hace un truco en su patineta en un área del parque algo concurrida.; Un joven patinando.
+neutral; Un joven hace un truco en su patineta en un área de parque algo concurrida.; Un joven hace un truco en su patineta para una audiencia.
+contradicción; Un joven hace un truco en su patineta en un parque algo concurrido.; Un joven se zambulle en una piscina.
+vinculación; Los galgos con bozal corren en la pista.; Los perros corren en la pista.
+neutral; Galgos con bozal están corriendo en la pista.; Los perros están corriendo para practicar para una gran competencia que se avecina.
+contradicción; Los galgos con bozal están corriendo en la pista.; Los greyhouds con bozal están comiendo Kibbles 'N Bits de un tazón de cereal.
+neutral; Los perros compiten entre sí en una pista embarrada.; Los perros son galgos
+implicación; Los perros compiten entre sí en una pista embarrada.; La pista está embarrada
+contradicción; Los perros compiten entre sí en una pista embarrada.; La pista está seca
+neutral; Carrera de perros en el aire mientras corren.; Huskies están corriendo en el iditarod
+contradicción; Perros de carrera en el aire mientras corren.; Los peces nadan en círculos
+implicación; Los perros corren en el aire mientras corren.; Los perros corren
+vinculación; Un niño con una sudadera verde y jeans azules realiza un truco en una patineta mientras los espectadores en el fondo miran.; Un joven monta una patineta.
+neutral; Un niño con una sudadera verde y jeans azules realiza un truco en una patineta mientras los espectadores en el fondo están mirando.; El skater actúa para los jueces.
+contradicción; un niño con una sudadera verde y jeans azules realiza un truco en una patineta mientras los espectadores en el fondo lo miran.; El pianista termina su pieza musical.
+contradicción; Un hombre con una sudadera verde y pantalones de mezclilla está haciendo un truco en patineta en una superficie al aire libre con baldosas a lo largo de un paseo por el río.; Un hombre está montando una bicicleta en un parque.
+vinculación; Un hombre con una sudadera verde y jeans azules está haciendo un truco en patineta en una superficie al aire libre con baldosas a lo largo de un paseo por el río.; Un patinador hace un truco.
+neutral; Un hombre con una sudadera verde y jeans azules está haciendo un truco en patineta en una superficie al aire libre con baldosas a lo largo de un paseo por el río.; Un patinador está trotando por un paseo por el río.
+vinculación; Un hombre con una sudadera con capucha hace un ollie en su patineta con gente en el parque de fondo.; La gente está parada cerca de un hombre que hace un ollie.
+vinculación; Un hombre con una sudadera con capucha hace un ollie en su patineta con gente en el parque de fondo.; Un hombre está patinando.
+neutral; Un hombre con una sudadera con capucha hace un ollie en su patineta con gente en el parque de fondo.; La gente en el parque está mirando al patinador.
+vinculación; Un hombre con una sudadera con capucha hace un ollie en su patineta con gente en el parque de fondo.; El hombre está en el parque.
+vinculación; Un hombre con una sudadera con capucha hace un ollie en su patineta con gente en el parque de fondo.; Un hombre monta una patineta
+contradicción; Un hombre con una sudadera con capucha hace un ollie en su patineta con gente en el parque al fondo.; El hombre está montando su bicicleta por el carril rápido.
+contradicción; un hombre con una sudadera con capucha hace un ollie en su patineta con gente en el parque de fondo.; un hombre está dormido frente a una acogedora chimenea
+contradicción; Un hombre con una sudadera con capucha hace un ollie en su patineta con gente en el parque al fondo.; Un hombre con un esmoquin viaja en un taxi.
+vinculación; Un hombre con una sudadera con capucha hace un ollie en su patineta con gente en el parque de fondo.; Un hombre está patinando cerca del parque.
+contradicción; Un hombre con una sudadera con capucha hace un ollie en su patineta con gente en el parque de fondo.; La patineta está en el suelo.
+neutral; un hombre con una sudadera con capucha hace un ollie en su patineta con gente en el parque de fondo.; un hombre es un skater experto
+neutral; Un hombre con una sudadera con capucha hace un ollie en su patineta con gente en el parque de fondo.; El hombre nunca antes había hecho este truco.
+neutral; Un hombre con una sudadera con capucha hace un ollie en su patineta con gente en el parque al fondo.; Un hombre con jeans rotos patinetas.
+neutral; Un hombre con una sudadera con capucha hace un ollie en su patineta con gente en el parque de fondo.; El hombre es bueno con una patineta.
+contradicción; Un hombre con una sudadera con capucha hace un ollie en su patineta con gente en el parque de fondo.; El hombre está sentado en su patineta.
+vinculación; un hombre con una sudadera con capucha verde está tratando de hacer un truco en su patineta en un parque.; un hombre de verde
+neutral; un hombre con una sudadera con capucha verde está tratando de hacer un truco en su patineta en un parque.; el hombre es blanco
+contradicción; un hombre con una sudadera con capucha verde está tratando de hacer un truco en su patineta en un parque; el hombre está desnudo
+vinculación; Niño pelirrojo mirando un tren de juguete.; Un niño está mirando un tren de juguete
+contradicción; Niño pelirrojo mirando un tren de juguete.; Un niño está jugando a atrapar
+neutral; Niño pelirrojo mirando un tren de juguete.; Un niño pequeño está jugando con un tren de juguete
+neutral; Una mujer sentada en una pared de piedra y habla por teléfono.; Una mujer hablando con su hermana por teléfono.
+contradicción; Una mujer sentada en un muro de piedra y habla por teléfono.; Una mujer leyendo el periódico.
+vinculación; Una mujer sentada en un muro de piedra y habla por teléfono.; Una mujer hablando por teléfono.
+neutral; Grupo de personas señalando.; Un grupo de personas señalando hacia la conmoción que ocurre en la calle.
+contradicción; Grupo de personas señalando.; Un grupo de personas está sentado con las manos cruzadas.
+vinculación; Grupo de personas señalando.; Un par de personas tienen el brazo extendido.
+contradicción; Dos mujeres están sentadas en una roca junto a un campo abierto.; Dos mujeres bailando.
+vinculación; Dos mujeres están sentadas en una roca junto a un campo abierto.; Dos mujeres sentadas en una roca.
+neutral; Dos mujeres están sentadas en una roca junto a un campo abierto.; Dos mujeres tomando un descanso después de correr una milla.
+neutral; Un niño vestido de azul corto parado en el poste de la señal de tráfico.; El niño lleva sus libros escolares.
+contradicción; Un niño vestido con pantalones cortos azules de pie en el poste de señales de tráfico; El niño usa pantalones cortos rojos dentro de su salón de clases.
+vinculación; Un niño vestido de azul corto parado en el poste de la señal de tráfico.; El niño lleva una prenda de vestir.
+contradicción; Un niño pequeño está patinando en un parque de patinaje.; El niño tiene miedo de patinar.
+neutral; Un niño pequeño está patinando en un parque de patinaje.; Hay un niño patinando en la carretera.
+vinculación; Un niño pequeño está patinando en un parque de patinaje.; El niño está jugando en el parque de patinaje.
+vinculación; Tres personas sentadas en la acera en una ciudad asiática.; Un grupo de personas están afuera sentadas.
+neutral; Tres personas sentadas en la acera en una ciudad asiática.; Un grupo de personas están hablando sobre el clima.
+contradicción; Tres personas sentadas en la acera en una ciudad asiática.; Un grupo de perros viaja en un automóvil.
+neutral; Mucha gente está sentada en mantas y sillas de jardín en el césped.; Hay mucha gente sentada sobre una manta para ver una película.
+vinculación; Mucha gente está sentada en mantas y sillas de jardín en el césped.; Hay mucha gente sentada sobre mantas.
+contradicción; Mucha gente está sentada en mantas y sillas de jardín en el césped.; Hay una persona sentada sobre una manta.
+neutral; Niña jugando con serpentinas.; La niña está afuera.
+vinculación; Niña jugando con serpentinas.; Niña jugando.
+contradicción; Niña jugando con serpentinas.; Hay un niño jugando baloncesto.
+vinculación; La niña está girando serpentinas largas y coloridas.; La niña está girando serpentinas.
+contradicción; La niña está girando serpentinas largas y coloridas.; El niño está girando serpentinas.
+neutral; La niña está girando serpentinas largas y coloridas.; La niña está girando serpentinas de arco iris.
+contradicción; La niña de la camisa rosa está haciendo girar una cinta.; Un niño jugando con una cinta
+neutral; La niña de la camisa rosa está haciendo girar una cinta.; Una niña practicando
+vinculación; La niña de la camisa rosa está haciendo girar una cinta.; Una niña jugando con una cinta
+neutral; una niña con un top rosa brillante está girando una cinta de colores alrededor de su cuerpo.; Una niña ofrece un espectáculo para su familia.
+vinculación; una niña con una blusa rosa brillante gira una cinta de colores alrededor de su cuerpo.; Una niña con una blusa rosa hace girar una cinta.
+contradicción; una niña con una camiseta rosa brillante está girando una cinta de colores alrededor de su cuerpo.; Un niño con una camisa azul gira.
+contradicción; Una niña con una camisa rosa y una falda de mezclilla está jugando con una varita de cinta afuera.; La niña tiene una camisa roja.
+vinculación; Una niña con una camisa rosa y una falda de mezclilla está jugando con una varita de cinta afuera.; Una niña tiene una camisa rosa.
+neutral; una niña con una camisa rosa y una falda de mezclilla está jugando con una varita de cinta afuera.; la niña es rubia.
+contradicción; un esquiador vuela por el aire.; un snowboarder está mirando las vistas
+neutral; un esquiador vuela por el aire.; un esquiador está fuera de control dando vueltas por el aire
+implicación; Un esquiador vuela por el aire.; Un esquiador ha abandonado el suelo y está en el aire.
+contradicción; Un hombre con equipo de esquí está en el aire.; Un hombre desnudo está en el aire.
+vinculación; Un hombre con equipo de esquí está en el aire.; Un hombre con equipo de esquí.
+neutral; Un hombre con equipo de esquí está en el aire.; Un hombre está saltando mientras está en sus esquís.
+implicación; Un esquiador está en el aire frente a unos árboles.; Alguien está esquiando.
+neutral; Un esquiador está en el aire frente a unos árboles.; El esquiador está cerca del final de su carrera.
+contradicción; Un esquiador está en el aire frente a unos árboles.; Dos hombres juegan baloncesto.
+contradicción; Un esquiador con ropas coloridas en el aire en una escena invernal.; El esquiador está sentado en el banco.
+neutral; Un esquiador con ropas coloridas en el aire en una escena invernal.; El esquiador volará hacia el albergue para obtener chocolate caliente.
+vinculación; Un esquiador con ropas coloridas en el aire en una escena invernal.; El esquiador está vestido de manera abrigada para las condiciones invernales.
+neutral; Una mujer sentada sobre hormigón leyendo un libro descalza.; Una mujer joven sentada mientras lee.
+vinculación; Una mujer sentada sobre hormigón leyendo un libro descalza.; Una persona leyendo.
+contradicción; Una mujer sentada en el cemento leyendo un libro descalzo.; Un niño jugando en un gimnasio en la jungla.
+neutral; Un hombre está esquiando en el aire.; Un hombre está gritando en el aire.
+vinculación; Un hombre está esquiando en el aire.; Un hombre está al aire libre.
+contradicción; Un hombre está esquiando en el aire.; Un hombre se lanza en paracaídas en el aire.
+neutral; Un perro negro y un perro marrón muy juntos.; Dos perros jugando juntos.
+vinculación; Un perro negro y un perro marrón muy juntos.; Dos perros.
+contradicción; Un perro negro y un perro marrón muy juntos.; Dos gatos durmiendo.
+vinculación; Un perro marrón y uno en su mayoría negro están jugando o peleando.; Dos perros estaban juntos
+neutral; un perro marrón y uno en su mayoría negro están jugando o peleando.; los perros están jugando con un juguete
+contradicción; un perro marrón y uno en su mayoría negro están jugando o peleando.; un perro se sentó solo
+vinculación; Dos perros, cara a cara, en un camino de tierra.; Dos perros están uno frente al otro.
+contradicción; Dos perros, cara a cara, en un camino de tierra.; Dos perros persiguen a un gato.
+neutral; Dos perros, cara a cara, en un camino de tierra.; Dos perros pelean.
+vinculación; Un perro marrón y un perro negro en un camino de tierra.; Dos perros están al aire libre.
+neutral; Un perro marrón y un perro negro en un camino de tierra.; Un humano está paseando a dos perros.
+contradicción; Un perro marrón y un perro negro en un camino de tierra.; Los dos perros caminan por una calle de la ciudad.
+vinculación; Una mujer jugando en un tablero de damas de gran tamaño.; Una mujer juega en un tablero de ajedrez gigante negro y rojo.
+contradicción; Una mujer jugando en un tablero de damas de gran tamaño.; Un niño juega a las damas de velocidad con su amigo en un pequeño tablero magnético.
+neutral; Una mujer jugando en un tablero de damas de gran tamaño.; Una mujer músico toca su guitarra mientras pasea por un piso gigante de tablero de ajedrez negro y rojo.
+contradicción; Una mujer juega una partida extra grande de damas.; Una mujer juega una partida extra grande de ajedrez.
+vinculación; Una mujer juega un juego de damas extra grande.; Una mujer está jugando un juego de mesa.
+neutral; Una mujer juega un juego de damas extra grande.; La mujer ganó un concurso para tener la oportunidad de jugar un juego de damas de tamaño ampliado.
+vinculación; Una persona está jugando una versión grande de damas en una terraza con vistas al agua.; Alguien está jugando un juego al aire libre.
+contradicción; Una persona está jugando una versión grande de damas en una cubierta con vista al agua.; Una persona está de pie mirando botes con binoculares.
+neutral; Una persona está jugando una versión grande de damas en una terraza con vistas al agua.; Una persona con una gorra de béisbol está jugando una versión grande de damas en una terraza con vistas al agua.
+contradicción; Alguien colocando piezas en un gran tablero de ajedrez.; Un hombre está repartiendo cartas.
+neutral; Alguien colocando piezas en un gran tablero de ajedrez.; El ganador está preparando el próximo juego de damas.
+vinculación; Alguien colocando piezas en un gran tablero de ajedrez.; Hay un juego de damas.
+neutral; El niño está mirando un tren.; El tren es un juego emocionante para niños.
+contradicción; el niño está mirando un tren; el niño está jugando con él
+vinculación; El niño está mirando un tren.; El niño está pensando en un tren.
+contradicción; Una mujer rubia practica la danza del vientre vestida.; Una mujer está tumbada al sol.
+neutral; una mujer rubia practica la danza del vientre vestida; una mujer está bailando para una audiencia por dinero.
+vinculación; Una mujer rubia practica la danza del vientre vestida.; Una mujer está vestida y se mueve.
+vinculación; Una dama que juega a los bolos, con la pierna derecha apuntando hacia su espalda.; Una dama que juega a los bolos con la pierna apuntando hacia atrás.
+contradicción; Una dama que juega a los bolos, con la pierna derecha apuntando hacia su espalda.; Una dama que juega a los bolos bebe un refresco.
+vinculación; Una dama que juega a los bolos, con su pierna derecha apuntando hacia su espalda.; Una dama que juega a los bolos con una de sus piernas apuntando hacia atrás.
+vinculación; Una bailarina del vientre vestida con un traje rojo y dorado se para con los brazos por encima de la cabeza.; Una bailarina posa.
+contradicción; Una bailarina de danza del vientre vestida con un traje rojo y dorado se para con los brazos por encima de la cabeza.; Un gorila vestido de bailarina de danza del vientre vuelca una mesa.
+neutral; Una bailarina del vientre con un traje rojo y dorado se para con los brazos por encima de la cabeza.; Una bailarina del vientre que usa un traje rojo y dorado se para en una pose antes de bailar.
+vinculación; Una mujer rubia con una falda roja decorada a juego y una blusa está de pie en un campo.; Hay una mujer al aire libre
+neutral; Una mujer rubia con una falda roja decorada a juego y una blusa está de pie en un campo.; Hay una mujer al aire libre que practica deportes
+contradicción; Una mujer rubia con una falda roja decorada a juego y un top está de pie en un campo.; Hay una mujer al aire libre corriendo al aire libre.
+contradicción; Una bailarina con un traje rojo tiene las manos levantadas para formar una figura.; Un jugador de baloncesto hace un tiro.
+neutral; Una bailarina con un traje rojo tiene las manos levantadas para formar una forma.; Una bailarina actúa en el escenario para una multitud.
+vinculación; Una bailarina con un traje rojo tiene las manos levantadas para formar una figura.; Una bailarina está en una posición posada.
+neutral; Una mujer vestida con un traje rojo baila el vientre entre los espectadores.; Una mujer baila el vientre por su trabajo.
+vinculación; Una mujer vestida con un traje rojo danza del vientre entre los espectadores.; Una mujer danza del vientre.
+contradicción; Una mujer vestida con un traje rojo baila el vientre entre los espectadores.; Un hombre baila el vientre.
+neutral; un niño juega con un juguete.; juguetes jugados por alguna persona
+vinculación; Un joven juega con un juguete.; Los jóvenes juegan con juguetes.
+contradicción; un joven juega con un juguete.; persona caminando en la playa
+neutral; Una persona con un sombrero verde tendido en el suelo.; Una persona está dormida.
+contradicción; Una persona con un sombrero verde tirado en el suelo.; Una persona lleva un sombrero azul.
+vinculación; Una persona con un sombrero verde tirado en el suelo.; Una persona lleva un sombrero verde.
+contradicción; Un niño sonríe mientras carga su juguete con balas falsas.; Un niño juega con su carro de juguete.
+vinculación; Un niño sonríe mientras carga su juguete con balas falsas.; Un niño juega con una pistola de juguete.
+neutral; Un niño sonríe mientras carga su juguete con balas falsas.; Un niño juega a la policía y a los ladrones con sus amigos.
+vinculación; Un niño sonriente carga una pistola de espuma con dardos.; Un niño sonriente que juega con una pistola de juguete.
+contradicción; Un niño sonriente carga una pistola de espuma con dardos.; Un niño sonriente carga una pistola de perdigones.
+neutral; Un niño sonriente carga una pistola de espuma con dardos.; Un niño sonriente jugando con su nuevo regalo de cumpleaños.
+vinculación; Un joven con camisa negra y pantalón gris sonriendo mirando hacia abajo mientras juega con un juguete amarillo y azul en la oscuridad.; Un joven juega con un juguete en la oscuridad.
+contradicción; Un joven con una camisa negra y pantalón gris sonriendo mirando hacia abajo mientras juega con un juguete amarillo y azul en la oscuridad.; Un joven toca su violín en la obra de la escuela.
+neutral; Un joven con camisa negra y pantalón gris sonriendo mirando hacia abajo mientras juega con un juguete amarillo y azul en la oscuridad.; Un joven negro juega con un juguete en la oscuridad.
+vinculación; Un niño con una camiseta negra juega con una pistola NERF de juguete.; Un niño pequeño vestido de negro juega con una pistola de juguete.
+contradicción; Un niño con una camiseta negra juega con una pistola NERF de juguete; un niño con una camiseta roja juega con un perro.
+neutral; Un niño con una camiseta negra juega con una pistola NERF de juguete.; Un niño está jugando con su regalo.
+neutral; Un grupo de personas tanto adultos como niños se paran alrededor de un grupo de ovejas.; Un grupo de padres y sus hijos miran una oveja esquilada
+vinculación; Un grupo de personas, tanto adultos como niños, se paran alrededor de un grupo de ovejas.; Una multitud de personas se para alrededor de algunos animales de granja.
+contradicción; Un grupo de personas, tanto adultos como niños, se paran alrededor de un grupo de ovejas.; Un adolescente solitario tiende a unas pocas ovejas.
+neutral; Un grupo de ancianos y jóvenes de pie en un campo de tierra con un rebaño de ovejas contra un cielo azul profundo.; Un grupo de ancianos y jóvenes de pie en un campo de tierra.
+contradicción; Un grupo de ancianos y jóvenes de pie en un campo de tierra con un rebaño de ovejas contra un cielo azul profundo.; Un grupo de personas corriendo en la nieve.
+vinculación; Un grupo de ancianos y jóvenes de pie en un campo de tierra con un rebaño de ovejas contra un cielo azul profundo.; Un grupo de ancianos y jóvenes de pie en un campo de tierra con un rebaño de ovejas.
+vinculación; Tres niños y sus padres cuidando su manada de ovejas.; Los niños y los padres cuidan de su rebaño de ovejas.
+contradicción; Tres niños y sus padres cuidando su manada de ovejas.; Los niños están paseando a los perros.
+neutral; Tres niños y sus padres cuidando su manada de ovejas.; Los niños están aprendiendo de los padres.
+neutral; Cuatro niños y una mujer están cuidando ovejas en un lugar árido.; La familia trabaja en la granja de ovejas en Australia.
+contradicción; Cuatro niños y una mujer están cuidando ovejas en un lugar árido.; Un hombre acaricia un caballo.
+vinculación; Cuatro niños y una mujer cuidan ovejas en un lugar árido.; Cinco personas cuidan ovejas.
+vinculación; Hay un grupo de personas alrededor de un oído de ovejas.; un grupo de personas alrededor de ovejas
+neutral; hay un grupo de personas alrededor de un oído de ovejas.; un grupo de personas mayores alrededor de ovejas
+contradicción; Hay un grupo de personas alrededor de un oído de ovejas.; una persona alrededor de ovejas
+contradicción; Un hombre con boina mira por la ventanilla de un vehículo.; El hombre no lleva sombrero
+neutral; Un hombre con boina mira por la ventana de un vehículo.; El hombre es un soldado
+vinculación; Un hombre con boina mira por la ventanilla de un vehículo.; Un hombre lleva una boina
+vinculación; Un niño en un campo de tiro apunta y dispara.; Un niño dispara un arma.
+contradicción; Un niño apunta y dispara en un campo de tiro.; Dos hombres disparan a un tirano en la cabeza con precisión y exactitud.
+neutral; Un niño apunta y dispara en un campo de tiro.; Un niño apunta a un objetivo.
+contradicción; Un conductor de un tren se asoma por una ventana y mira hacia la derecha, mientras que otro hombre dentro del vagón mira hacia unos indicadores.; El conductor de un tren está sentado cómodamente mientras un hombre en un vagón se baja del tren.
+contradicción; Un conductor de un tren se asoma por una ventana y mira hacia la derecha, mientras que otro hombre dentro del vagón mira hacia unos aforos.; La gente ve pasar un tren.
+neutral; Un conductor de un tren se asoma por una ventana y mira hacia la derecha, mientras que otro hombre dentro del vagón mira hacia unos indicadores.; El conductor se asegura de que el tren esté en la vía correcta.
