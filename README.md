@@ -5,9 +5,11 @@
 
 El objetivo del presente trabajo, es estudiar el modelo BERT (Bidirectional Encoder Representatios from Transformers), el cual es un modelo bidireccional para el análisis de lenguaje natural que busca encontrar la similitud entre 2 oraciones, en cuanto a su significado.
 
-### Descripción del repo y requerimientos:
+### Descripción del repo:
 
 - Utilizamos Google Colab (GRU) para el estudio del modelo del desempeño del modelo: `notebooks/`.
+- El reporte, código y resumen técnico se encuentra en la carpeta `documentation/`
+- En la carpeta `models/` se encuentran los modelos que evaluaron el desempeño de BERT bajo distintas configuraciones de los hiperparámetros.
 
 
 ## Equipo 2
