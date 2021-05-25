@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Eduardo-Moreno/DL_equipo_2/blob/main/images/BERT.png">
+  <img src="https://github.com/Eduardo-Moreno/DL_equipo_2/blob/main/images/BERT.png">
 </p>
 
 # Similitud Semántica::BERT
