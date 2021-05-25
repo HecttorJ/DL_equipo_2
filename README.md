@@ -13,7 +13,7 @@ El objetivo del presente trabajo, es estudiar el modelo BERT (Bidirectional Enco
 ## Equipo 2
 
 | Nombre | User Github | 
-|:---:|:---:|:---|
+|:---:|:---:|
 | Hécttor Efrén Guadarrama | HecttorJ | 
 | Eduardo Moreno | Eduardo-Moreno| 
 | Miguel López Cruz | Lobolc| 
