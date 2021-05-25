@@ -1,4 +1,4 @@
-ª[](https://github.com/Eduardo-Moreno/DL_equipo_2/blob/main/images/BERT.png)
+![](https://github.com/Eduardo-Moreno/DL_equipo_2/blob/main/images/BERT.png)
 # Similitud Semántica::BERT
 ***
 
