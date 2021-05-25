@@ -1,1 +1,1 @@
-
+Sección de imágenes
